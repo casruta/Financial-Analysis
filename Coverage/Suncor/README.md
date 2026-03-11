@@ -180,7 +180,7 @@ The recommendation is HOLD. The operational execution justifies continued owners
 
 ## Bullish Investment Thesis
 
-*Updated March 11, 2026. Incorporates current commodity pricing (WTI ~US$87, Brent ~US$92), the 2026 Strait of Hormuz crisis, Suncor's FY2026 corporate guidance, TMX pipeline data, and the Carney government's energy policy pivot. Sources cited inline.*
+*Updated March 11, 2026. Incorporates current commodity pricing (WTI ~US$87, Brent ~US$92), the 2026 Strait of Hormuz crisis, Suncor's FY2026 corporate guidance, TMX pipeline data, and the Carney government's energy policy pivot. External market data below was not found in Suncor filings; sources are listed in the External Market Data section at the end of this report.*
 
 Suncor Energy is positioned to deliver outsized shareholder returns over the next 12 to 24 months, driven by a convergence of structural operational improvements, a favorable geopolitical supply shock, and a Canadian policy environment that has shifted decisively in favor of oil sands producers. The stock trades at C$77.50 (March 9, 2026), near its all-time high but still at a discount to peers on EV/EBITDA (5.8x vs. Canadian Natural at 7.3x) and P/FCF (9.5x vs. Cenovus at 16.7x). With WTI at approximately US$87 against a low-$40s breakeven, Suncor is generating roughly US$45 per barrel of margin before royalties. The highest analyst price target of C$88.48 implies 14% upside from current levels, and that target was set before the Hormuz crisis pushed crude well above pre-crisis consensus forecasts of US$59 to US$64 Brent. At current commodity prices, Suncor's AFFO could materially exceed the $12,783M reported for FY2025, reversing the declining trend that defined the prior three years.
 
@@ -192,7 +192,7 @@ The March 31 Investor Day in Toronto is the next catalyst. Management is expecte
 
 ## Bearish Investment Thesis
 
-*Updated March 11, 2026. Incorporates current commodity pricing (WTI ~US$87, Brent ~US$92), the 2026 Strait of Hormuz crisis, global inventory data, recession risk indicators, and Canadian regulatory developments. Sources cited inline.*
+*Updated March 11, 2026. Incorporates current commodity pricing (WTI ~US$87, Brent ~US$92), the 2026 Strait of Hormuz crisis, global inventory data, recession risk indicators, and Canadian regulatory developments. External market data below was not found in Suncor filings; sources are listed in the External Market Data section at the end of this report.*
 
 Suncor Energy at C$77.50 is priced for a geopolitical premium that is unlikely to persist, and the stock's near-term upside is already exhausted. The shares are trading above the average analyst price target of C$74.78, within 2% of the 52-week high of C$80.12, and have nearly doubled from the 52-week low of C$43.59. The current price embeds the assumption that the Strait of Hormuz crisis will sustain WTI near US$87 for an extended period. If the crisis resolves, pre-conflict consensus forecasts pointed to Brent averaging US$59 to US$64 for 2026 (Wall Street five-bank average per Bloomberg), with J.P. Morgan warning of a potential decline to the US$30s in 2027 under a surplus scenario. At those levels, Suncor's AFFO would compress to or below FY2025's already-declining $12,783M, and the stock would face a significant repricing from current levels. Buying at all-time highs into a war premium is the definition of asymmetric downside risk.
 
@@ -215,3 +215,34 @@ Investors buying Suncor at C$77.50 are paying for a geopolitical crisis that wil
 | 2026 Management Proxy Circular | SEC 6-K, Accession No. 0001104659-26-020414 |
 | 2025 Annual Information Form | SEC 40-F, Accession No. 0001104659-26-020411 |
 | Suncor Governance | [suncor.com/en-ca/who-we-are/governance](https://www.suncor.com/en-ca/who-we-are/governance) |
+| Suncor 2026 Corporate Guidance (Dec 11, 2025) | [Suncor.com](https://www.suncor.com/-/media/project/suncor/files/news-releases/2025/2025-12-11-news-release-suncor-energy-announces-2026-corporate-guidance-en.pdf), [StockTitan](https://www.stocktitan.net/news/SU/suncor-energy-announces-2026-corporate-qsal9vcisuci.html) |
+| Suncor NCIB Renewal (Mar 3, 2026) | [StockTitan](https://www.stocktitan.net/news/SU/suncor-energy-files-annual-disclosure-documents-and-renews-uq6oka8jofdz.html) |
+
+### External Market Data (not from Suncor filings)
+
+*The following sources were used for commodity pricing, geopolitical context, analyst estimates, and policy data in the Bullish and Bearish Investment Thesis sections. This data was verified through publicly available external sources, not Suncor filings.*
+
+| Data Point | Source |
+|------------|--------|
+| WTI and Brent crude prices (March 11, 2026) | [CNBC](https://www.cnbc.com/2026/03/11/oil-price-today-crude-wti-us-iran-war-strait-hormuz-iea.html) |
+| Strait of Hormuz crisis timeline | [Wikipedia](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis), [Al Jazeera](https://www.aljazeera.com/news/2026/2/22/iran-us-tensions-what-would-blocking-strait-of-hormuz-mean-for-oil-lng) |
+| IEA 400M barrel emergency release | [CNBC](https://www.cnbc.com/2026/03/11/oil-price-today-crude-wti-us-iran-war-strait-hormuz-iea.html) |
+| Wall Street oil price forecasts (GS, JPM, consensus) | [JP Morgan](https://www.jpmorgan.com/insights/global-research/commodities/oil-price-forecast), [Goldman Sachs via BOE Report](https://boereport.com/2026/02/23/goldman-sachs-raises-2026-q4-brent-wti-oil-price-outlook/) |
+| OPEC+ April 2026 production decision (+206k bpd) | [CNBC](https://www.cnbc.com/2026/03/01/opec-to-raise-oil-output-slightly-even-as-iran-war-disrupts-shipments.html) |
+| Global oil inventory build (477M bbl in 2025) | [IEA Oil Market Report, February 2026](https://www.iea.org/reports/oil-market-report-february-2026) |
+| EIA supply/demand and US production forecasts | [EIA](https://www.eia.gov/todayinenergy/detail.php?id=67164) |
+| IEA global demand growth forecast (930k bpd) | [IEA Oil Market Report, February 2026](https://www.iea.org/reports/oil-market-report-february-2026) |
+| TMX WCS-WTI differential data | [Alberta Central](https://albertacentral.com/intelligence-centre/economic-news/year-one-of-tmx-increased-export-diversification-disappearing-oil-discount-and-c13bn-in-extra-revenues/), [Oil Sands Magazine](https://www.oilsandsmagazine.com/news/2025/4/3/before-and-after-a-look-at-q1-wcs-sco-differentials-post-tmx) |
+| CUSMA tariff exemption for Canadian energy | [Globe and Mail](https://www.theglobeandmail.com/investing/markets/stocks/SU-T/pressreleases/31733930/what-us-reciprocal-tariffs-mean-for-suncor-energy-and-canadian-oil-markets/) |
+| Analyst ratings and price targets (14 analysts) | [TipRanks](https://www.tipranks.com/stocks/tse:su/forecast), [MarketBeat](https://www.marketbeat.com/stocks/TSE/SU/forecast/) |
+| Suncor stock price (C$77.50, March 9, 2026) | [Yahoo Finance](https://ca.finance.yahoo.com/quote/SU.TO/) |
+| Peer valuation multiples (CNQ, CVE, IMO) | [Motley Fool Canada](https://www.fool.ca/2026/03/02/oil-sands-stocks-how-suncor-and-canadian-natural-stack-up/) |
+| Fisher Asset Management +85.5% position increase | [MarketBeat](https://www.marketbeat.com/instant-alerts/filing-shell-asset-management-co-sells-79425-shares-of-suncor-energy-inc-su-2026-02-17/) |
+| J.P. Morgan 35% recession probability | [J.P. Morgan 2026 Market Outlook](https://www.jpmorgan.com/insights/global-research/outlook/market-outlook) |
+| Canada emissions cap regulations | [Canada Gazette](https://gazette.gc.ca/rp-pr/p1/2024/2024-11-09/html/reg1-eng.html), [Norton Rose Fulbright](https://www.nortonrosefulbright.com/en/knowledge/publications/f36e10cc/the-canada-cap-canada-to-cap-oil-and-gas-emissions-starting-in-2026) |
+| Alberta carbon price freeze at $95/tonne | [CBC News](https://www.cbc.ca/news/canada/calgary/alberta-carbon-price-freeze-1.7636603) |
+| Pathways Alliance CCS status | [IEEFA](https://ieefa.org/resources/financial-risks-carbon-capture-and-storage-canada-concerns-about-pathways-project-and) |
+| Carney government carbon tax elimination | [CBC News](https://www.cbc.ca/news/politics/mark-carney-drops-carbon-tax-1.7484290) |
+| Canada-Alberta northwest coast pipeline MOU | [PM.gc.ca](https://www.pm.gc.ca/en/news/backgrounders/2025/11/27/canada-alberta-memorandum-understanding) |
+| CAD/USD forecasts (CIBC, Macquarie, Scotiabank) | [FXStreet](https://www.fxstreet.com/analysis/usd-cad-price-annual-forecast-further-loonie-recovery-on-the-cards-for-2026-202512221524) |
+| Diesel crack spread and refining margins | [Benzinga](https://www.benzinga.com/markets/commodities/26/03/51129410/diesel-prices-surge-crack-spread-iran-war-hormuz-crisis-refiners-valero-marathon-phillips66) |
