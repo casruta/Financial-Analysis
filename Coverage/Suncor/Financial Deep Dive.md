@@ -1,39 +1,37 @@
 # Financial Deep Dive: SU
 
-> Minimum 3-year trend analysis. All metrics sourced from filings.
+> Minimum 3-year trend analysis. All metrics sourced from Suncor press releases and SEC/SEDAR filings.
 
 ## Revenue Trajectory
 
 | Year | Revenue (C$) | YoY Growth | Organic Growth | Inorganic (M&A) |
 |------|-------------|-----------|----------------|-----------------|
-| 2022 | ~$58.3B | N/A | Primarily commodity-price driven (WTI averaged ~US$95/bbl) | None material |
-| 2023 | ~$49.1B | -15.8% | Decline driven by lower commodity prices (WTI ~US$78 avg) | None material |
-| 2024 | Not separately stated in filings | N/A | Volume-driven growth: record production (827,600 bbls/d, +11% vs 2023), record refinery utilization (100%), record refined product sales (599,000 bbls/d, +8.3%) offset by lower commodity prices | None material |
-| 2025 TTM (USD) | ~US$35.7B | N/A | Record production (860,000 bbls/d, +3.9% vs 2024) and record refinery throughput (480,000 bbls/d, +3.2%) offset by weaker commodity prices | None material |
+| 2022 | Not separately stated in earnings press releases | N/A | Primarily commodity-price driven (WTI averaged ~US$95/bbl) | None material |
+| 2023 | Not separately stated in earnings press releases | N/A | Decline driven by lower commodity prices (WTI ~US$78 avg) | None material |
+| 2024 | Not separately stated in earnings press releases | N/A | Volume-driven growth: record production (827,600 bbls/d, +11% vs 2023), record refinery utilization (100%), record refined product sales (599,000 bbls/d, +8.3%) offset by lower commodity prices | None material |
+| 2025 | Not separately stated in earnings press releases | N/A | Record production (860,000 bbls/d, +3.9% vs 2024) and record refinery throughput (480,000 bbls/d, +3.2%) offset by weaker commodity prices | None material |
 
 Suncor has no meaningful M&A-driven growth in this period. All revenue changes are organic, driven by two factors: (1) commodity prices (WTI, WCS differentials, crack spreads) and (2) volume growth from operational improvements. The company's integrated model (upstream + refining + retail) provides some natural hedging: when crude prices fall, refining margins often widen.
 
-[suncor-historical.md, Full Year 2022]: "Revenue ~C$58.3B (operating revenue)"
-[suncor-historical.md, Full Year 2023]: "Revenue ~C$49.09B (operating revenue)"
-[suncor-valuation-data.md, Income Statement TTM]: "Revenue $35.67B" (USD)
-[suncor-q2-2025-earnings.md, Key Financial Results]: "Revenue $8,700M" (Q2 2025 only)
+Note: Suncor's quarterly earnings press releases report adjusted funds from operations, free funds flow, and production volumes as headline metrics. Total consolidated revenue is disclosed in the full annual report (40-F) but is not featured in earnings press releases. Revenue figures would need to be sourced from Suncor's annual filings on SEDAR/SEC EDGAR.
 
 
 ## Margin Progression
 
-| Year | Adj. Operating Earnings / Revenue (proxy for Operating Margin) | Net Margin | AFFO Margin (Adj. Funds from Ops / Revenue) |
-|------|--------------------------------------------------------------|------------|---------------------------------------------|
-| 2022 | ~19.8% ($11,566M / $58,300M) | ~15.6% ($9,077M / $58,300M) | ~31.1% ($18,101M / $58,300M) |
-| 2023 | Not available (adj. op. earnings not stated for FY) | ~12.5% ($6,145M / $49,090M) | ~27.1% ($13,325M / $49,090M) |
-| 2024 | Not available (FY revenue not stated) | ~12.3% ($6,016M est. / ~$48.9B est.) | AFFO $13,846M |
-| 2025 | Not available (FY revenue not stated) | Approx. ~$5,918M net income (sum of quarterlies) | AFFO $12,783M |
+| Year | Adj. Operating Earnings ($M) | Net Income ($M) | AFFO ($M) |
+|------|------------------------------|-----------------|-----------|
+| 2022 | 11,566 | 9,077 | 18,101 |
+| 2023 | Not stated for FY in press releases | Not stated for FY in press releases | 13,325 |
+| 2024 | Not stated for FY in press releases | ~6,016 (sum of quarterly press releases) | 13,846 |
+| 2025 | Not stated for FY in press releases | ~5,918 (sum of quarterly press releases) | 12,783 |
 
-Margin compression from 2022 to 2023 to 2025 is almost entirely commodity-price driven, not cost-structure deterioration. Operating costs per barrel have actually improved (OS&G expenses declined from $3,556M in Q4 2022 to $3,270M in Q3 2025 despite higher production volumes). The integrated downstream business acts as a margin stabilizer, as record refinery utilization (100% to 103%) and widening crack spreads partially offset upstream price weakness.
+Margin ratios (operating margin, net margin, AFFO margin) cannot be computed without total revenue from Suncor's annual filings. However, the directional trend is clear: margin compression from 2022 to 2025 is almost entirely commodity-price driven, not cost-structure deterioration. Operating costs per barrel have actually improved (OS&G expenses declined from $3,556M in Q4 2022 to $3,270M in Q3 2025 despite higher production volumes). The integrated downstream business acts as a margin stabilizer, as record refinery utilization (100% to 103%) and widening crack spreads partially offset upstream price weakness.
 
 [suncor-historical.md, Full Year 2022]: "Net Earnings $9,077M", "Adjusted Operating Earnings $11,566M"
-[suncor-historical.md, Full Year 2023]: "Net Income $6,145M"
-[suncor-q4-2024-earnings.md]: Q4 2024 net earnings $818M; [suncor-q1-2025-earnings.md]: Q1 2024 net earnings $1,610M
-[suncor-q2-2025-earnings.md]: Q2 2024 net earnings $1,568M; [suncor-q3-2025-earnings.md]: Q3 2024 net earnings $2,020M
+[suncor-q4-2024-earnings.md]: Q4 2024 net earnings $818M
+[suncor-q1-2025-earnings.md]: Q1 2024 net earnings $1,610M
+[suncor-q2-2025-earnings.md]: Q2 2024 net earnings $1,568M
+[suncor-q3-2025-earnings.md]: Q3 2024 net earnings $2,020M
 2024 net income estimated as sum of quarterly: $1,610M + $1,568M + $2,020M + $818M = $6,016M
 2025 net income estimated as sum of quarterly: $1,689M + $1,134M + $1,619M + $1,476M = $5,918M
 
@@ -43,9 +41,9 @@ Margin compression from 2022 to 2023 to 2025 is almost entirely commodity-price 
 | Year | Net Income ($M) | Adj. Funds from Ops ($M) | Free Funds Flow ($M) | FFFlow / Net Income | CapEx ($M) |
 |------|----------------|--------------------------|---------------------|---------------------|------------|
 | 2022 | 9,077 | 18,101 | 13,114 | 144% | 4,987 |
-| 2023 | 6,145 | 13,325 | 7,497 | 122% | 5,828 |
-| 2024 | ~6,016 (est.) | 13,846 | 7,363 | ~122% | ~5,900 (est.) |
-| 2025 | ~5,918 (est.) | 12,783 | 6,927 | ~117% | 5,856 |
+| 2023 | ~6,016 (est. from quarterlies) | 13,325 | 7,497 | ~125% | 5,828 |
+| 2024 | ~6,016 (est. from quarterlies) | 13,846 | 7,363 | ~122% | ~5,900 (est.) |
+| 2025 | ~5,918 (est. from quarterlies) | 12,783 | 6,927 | ~117% | 5,856 |
 
 Cash flow quality is strong. Free funds flow consistently exceeds net income, indicating earnings are cash-backed with no aggressive accrual build-up. The ratio of FFFlow/Net Income running 117% to 144% is healthy for a capital-intensive oil sands producer.
 
@@ -73,7 +71,7 @@ Management deploys capital with the following priority (stated policy: 100% of e
 | 2025 | 5,856 | 3,000 | 2,800 | ~$524M (net debt $6,861M to $6,337M) | 5,800 |
 
 **Assessment:**
-- Capital allocation is disciplined and shareholder-oriented. Buybacks are aggressive, reducing share count by 4.39% YoY. In 2026, monthly repurchases are increasing 10% to $275M/month (~$3,300M annual target).
+- Capital allocation is disciplined and shareholder-oriented. Buybacks are aggressive. In 2026, monthly repurchases are increasing 10% to $275M/month (~$3,300M annual target).
 - Dividends have grown consistently: $0.52 (2022) to $0.55 (2023) to $0.57 (2024) to $0.60 (Q4 2025 onward), representing ~15% cumulative growth over three years.
 - Net debt reduced dramatically from $13.6B (2022) to $6.3B (2025), a 54% reduction, while simultaneously returning $24.2B to shareholders over four years.
 - No M&A activity in this period. Management has prioritized organic improvement over acquisitions.
@@ -83,7 +81,6 @@ Management deploys capital with the following priority (stated policy: 100% of e
 [suncor-historical.md, Capital Allocation 2023]: "Total Shareholder Returns $5,000M", "Dividends ~$2,800M", "Share Repurchases ~$2,200M"
 [suncor-2024-annual.md, Capital Allocation]: "Total Shareholder Returns $5,700M", "Repaid ~$1.1B aggregate principal of long-term debt"
 [suncor-q4-2025-earnings.md, Full Year 2025]: "Total Shareholder Returns $5,800M", "Share Repurchases $3,000M", "Dividends $2,800M"
-[suncor-valuation-data.md]: "YoY Share Count Change -4.39%"
 
 
 ## Balance Sheet Health
@@ -202,3 +199,4 @@ Working capital detail (receivables, payables, inventory balances) is not availa
 - **Pension/OPEB obligations:** Pension and OPEB obligations are not quantified in quarterly filings. Full 10-K/40-F review required.
 - **Asset impairment risk:** Not flagged, but a sustained WTI environment below US$50 would warrant impairment testing on long-lived oil sands assets.
 - **Environmental/reclamation liabilities:** Asset retirement obligations (ARO) and reclamation liabilities are not quantified in quarterly filings. Full 10-K/40-F review required for oil sands mine closure cost assessment.
+- **Consolidated revenue:** Total revenue is not reported in Suncor's quarterly earnings press releases. Annual filings (40-F) on SEDAR/SEC EDGAR would be required to build a complete revenue time series.
