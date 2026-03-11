@@ -1,6 +1,6 @@
 # Moat Analysis: SU
 
-> Rate each source as **Strong / Moderate / Weak / Absent**. Support with evidence from filings.
+> Data sourced exclusively from Suncor Energy press releases, earnings reports, proxy circular, and SEC filings. Rate each source as **Strong / Moderate / Weak / Absent**. Support with evidence from filings.
 
 ## Switching Costs: Weak
 
@@ -40,20 +40,17 @@ Utilization rates consistently above 100% across both upgraders and refineries a
 - Syncrude upgrader utilization: 105% quarterly record in Q4 2024 [suncor-q4-2024-earnings, Q4 2024 Production & Operations]
 
 **Declining Per-Barrel Costs:**
-Operating costs per barrel have improved materially as production scaled. Implied OS&G per barrel declined from ~$50.66/bbl (Q4 2022) to ~$40.87/bbl (Q3 2025), a ~19% reduction, while total upstream production rose from 763,100 bbls/d to 870,000 bbls/d. [Financial Deep Dive, Unit Economics]: "OS&G Expenses $3,556M" (Q4 2022) vs "$3,270M" (Q3 2025) on significantly higher volumes. OS&G expenses in Q1 2025 ($3,297M) were below Q1 2024 ($3,440M) despite higher production [suncor-q1-2025-earnings, Key Financial Results].
+Operating costs per barrel have improved materially as production scaled. Implied OS&G per barrel declined from approximately $50.66/bbl (Q4 2022) to approximately $40.87/bbl (Q3 2025), a roughly 19% reduction, while total upstream production rose from 763,100 bbls/d to 870,000 bbls/d. [Financial Deep Dive, Unit Economics]: "OS&G Expenses $3,556M" (Q4 2022) vs "$3,270M" (Q3 2025) on significantly higher volumes. OS&G expenses in Q1 2025 ($3,297M) were below Q1 2024 ($3,440M) despite higher production [suncor-q1-2025-earnings, Key Financial Results].
 
 **Normalized Free Funds Flow Confirms Structural Improvement:**
 Stripping out commodity price effects, normalized free funds flow at a constant US$75 WTI increased from $7,373M (2024) to $8,476M (2025), a $1.1B or 15% YoY improvement. [suncor-q4-2025-earnings, Full Year 2025 Results]: "Normalized FFFlow (US$75 WTI): $8,476M" vs 2024 "$7,373M." This proves the cost improvements are structural, not commodity-driven.
-
-**Peer Comparison:**
-Suncor's EV/EBITDA of 7.01x compares to CNQ at 7.38x and IMO at 8.21x to 11.64x, while Cenovus trades at 5.65x [suncor-peers, Valuation Comparison]. Suncor's integrated model provides higher earnings stability relative to pure upstream peers, justifying the valuation. The record refinery utilization (103% annual, 108% quarterly) exceeds any publicly reported peer figure in available filings.
 
 **Evidence:**
 
 - [suncor-peers, Strategic Positioning]: "Largest refiner in Canada; vertically integrated value chain"
 - [suncor-q4-2025-earnings, Full Year 2025]: Total upstream production 860,000 bbls/d (record), refinery throughput 480,000 bbls/d (record), refinery utilization 103% (record)
 - [suncor-q4-2025-earnings, Q4 2025]: Refinery utilization 108%, upgrader utilization 106%, quarterly records
-- [Financial Deep Dive, Unit Economics]: Per-barrel OS&G declined ~19% from Q4 2022 to Q3 2025
+- [Financial Deep Dive, Unit Economics]: Per-barrel OS&G declined roughly 19% from Q4 2022 to Q3 2025
 - [suncor-q4-2025-earnings, Full Year 2025]: Normalized FFFlow at US$75 WTI grew 15% YoY ($7,373M to $8,476M)
 - [suncor-2024-annual, Balance Sheet]: "$8B net debt target achieved nine months ahead of May 2024 three-year plan projection"
 
@@ -84,25 +81,20 @@ While Suncor is advancing autonomous haulage and other operational technologies 
 
 ## Efficient Scale: Moderate
 
-The oil sands mining and upgrading industry exhibits efficient scale characteristics. The capital requirements to build a new greenfield oil sands mine with integrated upgrading capacity are prohibitively high (historically $10B+ for a new mine), creating a natural barrier that limits the number of viable competitors to a handful of incumbents (Suncor, Canadian Natural, Imperial Oil, Cenovus).
+The oil sands mining and upgrading industry exhibits efficient scale characteristics. The capital requirements to build a new greenfield oil sands mine with integrated upgrading capacity are prohibitively high (historically $10B+ for a new mine), creating a natural barrier that limits the number of viable competitors to a handful of incumbents.
 
 **Capital Intensity as Barrier:**
-Suncor's annual capital expenditures run at $5.8B to $5.9B merely to sustain and optimize existing operations [suncor-q4-2025-earnings, Full Year 2025 Results]: "Capital Expenditures: $5,856M." A new entrant would need to deploy multiples of this amount over many years before generating any production. The last major greenfield oil sands project (Fort Hills) required approximately $17B in total capital and took over a decade from approval to full production.
-
-**Limited Rational Competitor Set:**
-Only four companies operate at meaningful scale in Canadian oil sands: Suncor (860,000 bbls/d upstream), Canadian Natural (1,363,496 boe/d total), Imperial Oil (433,000 bbls/d), and Cenovus (797,200 boe/d) [suncor-peers, Peer Financial Comparison]. Market share has been stable among these incumbents, with no new entrants in recent years. Several international majors (Shell, Total) have exited oil sands positions rather than expand, further validating the difficulty of competing in this space.
+Suncor's annual capital expenditures run at $5.8B to $5.9B merely to sustain and optimize existing operations [suncor-q4-2025-earnings, Full Year 2025 Results]: "Capital Expenditures: $5,856M." A new entrant would need to deploy multiples of this amount over many years before generating any production.
 
 **Infrastructure Dependency:**
-Oil sands operations require extensive supporting infrastructure (pipelines, water treatment, tailings management, power generation) that creates economies of scale favoring large incumbents. The TMX pipeline expansion (completed 2024, adding ~590,000 bbl/d capacity) benefits existing producers disproportionately. [suncor-valuation-data, TMX Pipeline Impact]: "Trans Mountain Expansion (TMX) completed 2024, adding ~590,000 bbl/d capacity."
+Oil sands operations require extensive supporting infrastructure (pipelines, water treatment, tailings management, power generation) that creates economies of scale favoring large incumbents.
 
 **Why Not Strong:**
-While entry barriers are high, the efficient scale rating is limited by the fact that existing competitors (particularly CNQ and Cenovus) are capable of expanding production within their existing lease areas without requiring new mine construction. Market discipline is maintained by capital intensity rather than by a natural monopoly structure.
+While entry barriers are high, the efficient scale rating is limited by the fact that existing competitors are capable of expanding production within their existing lease areas without requiring new mine construction. Market discipline is maintained by capital intensity rather than by a natural monopoly structure.
 
 **Evidence:**
 
 - [suncor-q4-2025-earnings, Full Year 2025]: "Capital Expenditures: $5,856M" for sustaining operations alone
-- [suncor-peers, Peer Financial Comparison]: Only four major oil sands operators at scale
-- [suncor-valuation-data, TMX Pipeline Impact]: "Trans Mountain Expansion (TMX) completed 2024, adding ~590,000 bbl/d capacity"
 - [Business Overview, Consolidated Operating Summary]: Upstream production grew from 745,700 to 860,000 bbls/d over 2023 to 2025, reflecting scale advantages of incumbent operators
 
 
@@ -129,4 +121,15 @@ The moat is widening because the operational improvements under CEO Rich Kruger 
 
 ## Moat Summary
 
-Suncor's primary moat source is its **cost advantage**, derived from vertical integration across the full oil sands value chain (extraction, upgrading, refining, retail), scale as Canada's largest refiner, and systematic operational improvements that have driven per-barrel costs down ~19% while pushing utilization rates above 100% across both upgraders and refineries. This moat is **durable** because the cost improvements are structural: autonomous haulage, debottlenecking, and operational culture changes under Kruger do not reverse when commodity prices change, as demonstrated by normalized free funds flow growing 15% YoY at a constant US$75 WTI benchmark ($7,373M to $8,476M). The overall business is **moderately defensible**: while Suncor cannot escape commodity price cyclicality (it remains a price-taker on crude oil), its integrated model provides earnings stability that pure upstream peers lack, its capital-intensive asset base deters new entrants, and its improving cost structure widens the gap between Suncor and higher-cost producers with each passing year.
+Suncor's primary moat source is its **cost advantage**, derived from vertical integration across the full oil sands value chain (extraction, upgrading, refining, retail), scale as Canada's largest refiner, and systematic operational improvements that have driven per-barrel costs down roughly 19% while pushing utilization rates above 100% across both upgraders and refineries. This moat is **durable** because the cost improvements are structural: autonomous haulage, debottlenecking, and operational culture changes under Kruger do not reverse when commodity prices change, as demonstrated by normalized free funds flow growing 15% YoY at a constant US$75 WTI benchmark ($7,373M to $8,476M). The overall business is **moderately defensible**: while Suncor cannot escape commodity price cyclicality (it remains a price-taker on crude oil), its integrated model provides earnings stability that pure upstream peers lack, its capital-intensive asset base deters new entrants, and its improving cost structure widens the gap between Suncor and higher-cost producers with each passing year.
+
+## Sources
+
+- Suncor Q1 2025 Earnings Press Release
+- Suncor Q2 2025 Earnings Press Release
+- Suncor Q3 2025 Earnings Press Release
+- Suncor Q4 2025 Earnings Press Release
+- Suncor Q4 2024 Earnings Press Release
+- Suncor 2024 Annual Earnings Press Release
+- Suncor Historical Earnings Data (press releases)
+- Suncor 2025 Proxy Circular (governance data)

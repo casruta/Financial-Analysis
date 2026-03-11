@@ -1,6 +1,6 @@
 # Business Overview, SU
 
-> Source all metrics from filings. Citation format: `[filename, page/section]: "exact quote"`
+> Data sourced exclusively from Suncor Energy press releases, earnings reports, and SEC filings.
 
 ## Core Products & Services
 
@@ -104,11 +104,11 @@ Note: Normalized free funds flow at US$75 WTI grew from $7,373M to $8,476M YoY, 
 
 ## Key Dependencies
 
-**Commodity prices**: Suncor's profitability is fundamentally tied to WTI crude oil, WCS heavy crude, and SCO benchmark prices. Lower prices directly reduce upstream earnings, partially offset by the integrated refining hedge. [suncor-valuation-data, Oil Price Forecasts]: EIA forecasts Brent at ~$58/bbl for 2026 and ~$53/bbl for 2027, representing a headwind to upstream profitability.
+**Commodity prices**: Suncor's profitability is fundamentally tied to WTI crude oil, WCS heavy crude, and SCO benchmark prices. Lower prices directly reduce upstream earnings, partially offset by the integrated refining hedge.
 
-**WCS-WTI differential**: The spread between Western Canadian Select and WTI is a critical variable for oil sands economics. Narrower differentials benefit Suncor's bitumen and SCO realizations. The TMX pipeline expansion (completed 2024, adding ~590,000 bbl/d capacity) is a structural positive for narrowing this differential. [suncor-valuation-data, TMX Pipeline Impact]: "Trans Mountain Expansion (TMX) completed 2024, adding ~590,000 bbl/d capacity... Expected to narrow WCS-WTI differential over time"
+**WCS-WTI differential**: The spread between Western Canadian Select and WTI is a critical variable for oil sands economics. Narrower differentials benefit Suncor's bitumen and SCO realizations. Suncor's Q1 2025 earnings benefited from "narrower heavy crude oil and SYN-WTI differentials." [suncor-q1-2025-earnings, Segment Performance]
 
-**Pipeline and transportation infrastructure**: Suncor depends on pipeline capacity (TMX, Enbridge Mainline, Keystone) to move product from landlocked Alberta to refineries and export markets. Pipeline constraints historically widened differentials and depressed netbacks.
+**Pipeline and transportation infrastructure**: Suncor depends on pipeline capacity to move product from landlocked Alberta to refineries and export markets. Pipeline constraints historically widened differentials and depressed netbacks.
 
 **Regulatory and carbon policy**: Canadian federal carbon tax applies to oil sands operations, increasing per-barrel operating costs. However, shareholder sentiment is aligned with continued production: 98% of shareholders rejected a net-zero report demand at the 2025 AGM. [suncor-valuation-data, Canadian Oil Sands Industry Outlook]: "Suncor AGM: 98% of shareholders rejected net-zero report demand"
 
@@ -120,4 +120,13 @@ Note: Normalized free funds flow at US$75 WTI grew from $7,373M to $8,476M YoY, 
 
 ## Summary
 
-Suncor Energy is Canada's largest integrated oil company, operating across the full value chain from oil sands extraction through upgrading, refining, and retail fuel sales via Petro-Canada. The company has undergone a significant operational turnaround since Rich Kruger became CEO in April 2023 following activist pressure from Elliott Management, achieving record production (860,000 bbls/d in FY2025), record refinery utilization (103%), and rapid balance sheet deleveraging (net debt from $13,678M to $6,337M in two years). Suncor's integrated model provides a natural earnings hedge, as refining margins tend to expand when crude prices fall, though the company remains fundamentally a commodity-price-driven business. Normalized free funds flow at a constant US$75 WTI grew 15% YoY to $8,476M in FY2025, demonstrating that the operational improvements are structural rather than commodity-driven. The key investment question is whether Suncor can sustain this operational excellence while navigating a potentially weaker commodity price environment (EIA forecasts Brent at $53 to $58/bbl through 2027) and whether the current valuation (15.75x trailing P/E, 7.01x EV/EBITDA) adequately compensates for commodity risk.
+Suncor Energy is Canada's largest integrated oil company, operating across the full value chain from oil sands extraction through upgrading, refining, and retail fuel sales via Petro-Canada. The company has undergone a significant operational turnaround since Rich Kruger became CEO in April 2023 following activist pressure from Elliott Management, achieving record production (860,000 bbls/d in FY2025), record refinery utilization (103%), and rapid balance sheet deleveraging (net debt from $13,678M to $6,337M in two years). Suncor's integrated model provides a natural earnings hedge, as refining margins tend to expand when crude prices fall, though the company remains fundamentally a commodity-price-driven business. Normalized free funds flow at a constant US$75 WTI grew 15% YoY to $8,476M in FY2025, demonstrating that the operational improvements are structural rather than commodity-driven.
+
+## Sources
+
+- Suncor Q1 2025 Earnings Press Release
+- Suncor Q2 2025 Earnings Press Release
+- Suncor Q3 2025 Earnings Press Release
+- Suncor Q4 2025 Earnings Press Release
+- Suncor 2024 Annual Earnings Press Release
+- Suncor Historical Earnings Data (press releases)

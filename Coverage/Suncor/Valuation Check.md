@@ -1,128 +1,112 @@
 # Valuation Check: SU
 
-> State all assumptions explicitly. Flag areas with insufficient data.
+> State all assumptions explicitly. Flag areas with insufficient data. All data sourced from Suncor press releases, SEC/SEDAR filings, and proxy circular.
 
-## Relative Valuation
+## What Suncor's Own Data Tells Us
 
-| Metric | Current | 5-Year Avg | Peer Median | Sector Median |
-|--------|---------|-----------|-------------|---------------|
-| P/E    | 15.75   | N/A | ~15.37 (midpoint of SU 15.75 and CNQ 14.98) | N/A |
-| EV/EBITDA | 7.01 | N/A | 7.20 (median of SU 7.01, CNQ 7.38, IMO ~9.93, CVE 5.65) | N/A |
-| P/FCF  | 13.34   | N/A | N/A | N/A |
-| P/S    | 1.91    | N/A | N/A | N/A |
+This valuation framework is built exclusively from Suncor-sourced data. Market multiples, peer comparisons, analyst consensus estimates, and oil price forecasts from third parties have been excluded. The result is a cash-flow-based assessment of what Suncor's disclosed financials imply about the stock's value.
 
-Suncor trades at 7.01x EV/EBITDA, which sits between CNQ (7.38x) and CVE (5.65x), and well below IMO (8.21 to 11.64x). The 15.75x trailing P/E is slightly above CNQ's 14.98x but reasonable for the most vertically integrated Canadian oil sands producer. Forward P/E of 19.34x is elevated relative to CNQ's 15.49x, reflecting analyst consensus that 2026 EPS ($3.85) will decline from TTM EPS ($3.54 reported, though some sources show higher), largely on weaker commodity price assumptions.
+### Normalized Free Funds Flow
 
-[suncor-valuation-data.md, Valuation Multiples]: "P/E (Trailing) 15.75", "EV/EBITDA 7.01", "P/FCF 13.34", "P/S 1.91"
-[suncor-peers.md, Valuation Comparison]: "CNQ 7.38, IMO 8.21 to 11.64, CVE 5.65"
-[suncor-valuation-data.md, Valuation Multiples]: "P/E (Forward) 19.34"
-[suncor-peers.md, Valuation Comparison]: "CNQ Forward P/E 15.49"
+| Metric | 2024 | 2025 | YoY Change |
+|--------|------|------|------------|
+| Normalized FFFlow (at US$75 WTI) | $7,373M | $8,476M | +15.0% |
+| Actual FFFlow (at realized prices) | $7,363M | $6,927M | -5.9% |
+| AFFO | $13,846M | $12,783M | -7.7% |
+| CapEx | ~$5,900M | $5,856M | Stable |
 
-Note: 5-year average multiples and broad sector medians are not available in the project filings. A Bloomberg or FactSet terminal pull would be required to populate these fields.
+The normalized free funds flow metric is the most important number Suncor discloses for valuation purposes. By stripping out commodity price effects and holding WTI constant at US$75/bbl, it reveals genuine operational improvement: $1.1B more cash flow generated at the same oil price, driven by record production (860,000 bbls/d), record refinery utilization (103%), and declining per-barrel costs.
 
-## Growth-Adjusted Metrics
-
-| Metric | Value | Interpretation |
-|--------|-------|---------------|
-| PEG Ratio | ~4.09 (Forward P/E 19.34 / estimated EPS growth ~4.7%) | Expensive on a growth-adjusted basis, but PEG is poorly suited to commodity producers whose earnings growth is driven by price cycles, not organic compounding |
-| EV/EBITDA-to-Growth | ~1.49 (EV/EBITDA 7.01 / normalized FFFlow growth ~4.7%) | Moderate; reflects the market pricing in flat-to-declining commodity prices against structural operational improvement |
-
-**EPS growth estimate basis:** 2026E consensus EPS of $3.85 vs TTM EPS of $3.54 implies ~8.8% growth, but this is misleading because TTM EPS benefited from higher oil prices. Normalized operational growth (stripping commodity effects) is better measured by normalized free funds flow at US$75 WTI, which grew 15% YoY from $7,373M to $8,476M. However, per-share growth is lower after adjusting for the 4.39% share count reduction, yielding roughly ~10.5% per-share normalized FFFlow growth. Using a blended ~4.7% forward EPS growth rate (midpoint between commodity-headwind-adjusted consensus and normalized operational improvement) provides a more realistic denominator.
-
-[suncor-valuation-data.md, Analyst Estimates]: "2026 EPS Consensus $3.85"
-[suncor-valuation-data.md, Income Statement TTM]: "EPS $3.54"
 [suncor-q4-2025-earnings.md, Full Year 2025]: "Normalized FFFlow (US$75 WTI) $8,476M" vs 2024 "$7,373M"
-[suncor-valuation-data.md, Current Market Data]: "YoY Share Count Change -4.39%"
+[suncor-q4-2025-earnings.md, Full Year 2025]: "Adjusted Funds from Operations $12,783M", "Free Funds Flow $6,927M"
 
-## Reverse DCF
+### Capital Requirements and Cash Flow Sufficiency
 
-**Current Price:** $56.84
-**Implied Revenue Growth Rate:** ~0 to 2% annually over 5 years (flat to slight growth)
-**Implied Margin Assumptions:** EBITDA margins sustaining at ~30% (current TTM EBITDA margin: $10.88B / $35.67B = 30.5%), with FCF conversion around 14 to 15% of revenue ($5.10B / $35.67B = 14.3%)
-**Reality Check:** The current price appears to embed a mildly pessimistic commodity outlook, roughly consistent with WTI in the mid-$50s to low-$60s range, combined with stable operational execution. At $56.84, the market is pricing Suncor as if commodity prices will weaken from current levels but operational improvements will hold. This is a reasonable base case. The implied growth rate does NOT appear to give Suncor credit for further operational efficiency gains (normalized FFFlow grew 15% at constant prices in FY2025). If efficiency gains continue compounding at even half that rate, the current price undervalues Suncor's operational trajectory.
+| Category | Annual Amount ($M) | Source |
+|----------|-------------------|--------|
+| Capital expenditures | 5,856 | Q4 2025 press release |
+| Dividends | 2,800 | Q4 2025 press release |
+| Share repurchases | 3,000 (2025 actual); ~3,300 (2026 target at $275M/month) | Q4 2025 press release, 2026 guidance |
+| Total capital + shareholder commitments | ~11,656 (2025); ~11,956 (2026 target) | Sum of above |
 
-**Assumptions for reverse DCF:** Discount rate of 10% (typical for integrated energy), terminal growth of 0%, 10-year horizon. Revenue of $35.67B (TTM) growing at ~1.5% annually with 30% EBITDA margins and $5.8 to $6.0B annual capex yields a fair value of approximately $55 to $58 per share, aligning with the current price. This implies the market is pricing in essentially no growth.
+At 2025 realized commodity prices, AFFO of $12,783M covered all capital requirements and shareholder returns with ~$1.1B to spare (used for net debt reduction from $6,861M to $6,337M). The minimum AFFO required to sustain capital expenditures plus dividends (excluding buybacks) is approximately $8.7B, which provides meaningful headroom against commodity price declines.
 
-[suncor-valuation-data.md, Income Statement TTM]: "Revenue $35.67B", "EBITDA $10.88B"
-[suncor-valuation-data.md, Cash Flow TTM]: "Free Cash Flow $5.10B", "Capital Expenditures $4.27B"
-[suncor-valuation-data.md, Current Market Data]: "Shares Outstanding 1.19B"
-
-
-## Scenario-Based Fair Value
-
-### Bull Case (Top-Quartile Outcome)
-**Assumptions:**
-- Revenue growth: WTI sustains >$70/bbl, driving upstream revenue growth of 8 to 12% annually. Record production continues, reaching 900,000+ bbls/d by 2027.
-- Margin trajectory: EBITDA margins expand to 33 to 35% as operational efficiencies compound (upgrader and refinery utilization sustained above 100%), per-barrel OS&G costs continue declining, and refining crack spreads remain supportive. Normalized FFFlow at US$75 WTI reaches $9.5 to $10B by 2027 (vs $8.5B in 2025).
-- Multiple: EV/EBITDA re-rates to 8.0x (toward IMO's premium range, justified by sustained operational excellence and best-in-class integration). Share count declines 4 to 5% annually via $3.3B+ buyback program.
-
-**Fair Value:** $78
-
-*Derivation: Revenue ~$40B at WTI >$70, EBITDA ~$13.5B (33.5% margin), 8.0x EV/EBITDA = EV ~$108B. Less net debt ~$5.5B (continued deleveraging) = equity value ~$102.5B. Shares outstanding ~1.13B (post-buybacks) = ~$91/share. Probability-weighted at ~85% execution confidence = ~$78.*
-
-[suncor-q4-2025-earnings.md, Full Year 2025]: "Total Upstream Production 860,000 bbls/d (record)", "Refinery Utilization 103% (record)"
+[suncor-q4-2025-earnings.md, Full Year 2025]: "Total Shareholder Returns $5,800M", "Share Repurchases $3,000M", "Dividends $2,800M", "Capital Expenditures $5,856M"
 [suncor-q4-2025-earnings.md, 2026 Guidance]: "Monthly share repurchases increasing 10% to $275M"
-[suncor-q4-2025-earnings.md, Full Year 2025]: "Normalized FFFlow (US$75 WTI) $8,476M"
 
-### Base Case (Trend Continuation)
-**Assumptions:**
-- Revenue growth: WTI averages $55 to $65/bbl range through 2027, consistent with EIA and Goldman forecasts. Revenue flat to slightly declining on commodity headwinds, partially offset by 2 to 3% annual production growth and record refining throughput.
-- Margin trajectory: EBITDA margins compress modestly to 28 to 30% as lower oil prices offset operational improvements. Normalized FFFlow at US$75 WTI grows 5 to 8% annually to ~$9.0B by 2027. Actual FFFlow in the $6.0 to $7.0B range at realized prices.
-- Multiple: EV/EBITDA sustains at 7.0x, in line with current valuation and CNQ. Share count declines ~4% annually.
+### Implied Break-Even
 
-**Fair Value:** $56
+Based on Suncor's own disclosed normalized FFFlow and capital requirements:
 
-*Derivation: Revenue ~$34B at WTI ~$60, EBITDA ~$10.0B (29% margin), 7.0x EV/EBITDA = EV ~$70B. Less net debt ~$5.8B = equity value ~$64.2B. Shares outstanding ~1.14B = ~$56/share.*
+- Sustaining capex ($5,856M) + dividends ($2,800M) = ~$8.7B minimum AFFO needed
+- Normalized FFFlow at US$75 WTI is $8,476M (after capex), implying AFFO at US$75 WTI is approximately $14,332M ($8,476M + $5,856M capex)
+- AFFO of $8.7B would require WTI well below US$75, implying a break-even for sustaining operations plus dividends at roughly $40 to $45 WTI
+- This is an approximation derived from Suncor's own numbers; the company does not disclose an explicit break-even price
 
-[suncor-valuation-data.md, Oil Price Forecasts]: "EIA Brent ~$58/bbl avg" for 2026, "Goldman Sachs WTI $52/bbl"
-[Financial Deep Dive.md, Margin Progression]: EBITDA margins have ranged from ~27 to 31% depending on commodity price environment
-[suncor-valuation-data.md, Valuation Multiples]: "EV/EBITDA 7.01"
+[suncor-q4-2025-earnings.md, Full Year 2025]: "Normalized FFFlow (US$75 WTI) $8,476M", "Capital Expenditures $5,856M"
 
-### Bear Case (Structural Deterioration)
-**Assumptions:**
-- Revenue growth: WTI falls below $50/bbl on sustained supply glut (world oil output +2.4 mb/d, 477 mb inventory builds) and demand weakness. Revenue declines 15 to 20% from TTM. Carbon regulation tightens, increasing per-barrel costs by $3 to $5/bbl.
-- Margin trajectory: EBITDA margins compress to 22 to 25% as upstream losses dominate even with refining hedge. Normalized FFFlow declines to $6.0 to $6.5B at US$75 WTI as cost inflation from carbon regulation erodes structural gains. Actual FFFlow drops to $3.0 to $4.0B at realized WTI <$50.
-- Multiple: EV/EBITDA compresses to 5.5x (toward CVE's current discount, reflecting market re-pricing of long-duration oil sands assets in a structural demand decline narrative). Buyback program slows as FCF shrinks.
+### Shareholder Returns and Share Count
 
-**Fair Value:** $34
+| Metric | 2022 | 2023 | 2024 | 2025 |
+|--------|------|------|------|------|
+| Total shareholder returns ($M) | 7,700 | 5,000 | 5,700 | 5,800 |
+| Share repurchases ($M) | ~5,100 | ~2,200 | Not stated separately | 3,000 |
+| Dividends ($M) | ~2,600 | ~2,800 | ~2,800 (est.) | 2,800 |
+| Quarterly dividend per share | $0.52 | $0.55 | $0.57 | $0.60 (from Q4) |
 
-*Derivation: Revenue ~$29B at WTI ~$48, EBITDA ~$7.0B (24% margin), 5.5x EV/EBITDA = EV ~$38.5B. Less net debt ~$6.5B (deleveraging pauses) = equity value ~$32B. Shares outstanding ~1.17B (buybacks slow) = ~$27/share. However, integrated model and balance sheet strength provide a floor; refining margins widen in low-crude environments. Adjusted bear value: ~$34.*
+**Share count trajectory:** Based on Suncor's Q4 2025 press release disclosing weighted average diluted shares of approximately 1,200M for Q4 2025 (vs approximately 1,258M for Q4 2024), the outstanding share count is declining at a pace consistent with ~$3B in annual buybacks. The 2026 guidance of $275M/month (~$3,300M annually) suggests continued acceleration.
 
-[suncor-valuation-data.md, Supply/Demand Dynamics]: "Supply outpacing demand: 477 mb inventory builds in 2025", "World oil output 2026: forecast +2.4 mb/d"
-[suncor-valuation-data.md, Carbon Tax / Regulatory]: "Federal carbon tax applicable to oil sands operations"
-[suncor-peers.md, Valuation Comparison]: "CVE 5.65" EV/EBITDA as bear-case multiple reference
+[suncor-historical.md, Capital Allocation]: "Total Shareholder Returns $7,700M" (2022), "$5,000M" (2023)
+[suncor-2024-annual.md, Capital Allocation]: "Total Shareholder Returns $5,700M"
+[suncor-q4-2025-earnings.md, Full Year 2025]: "Total Shareholder Returns $5,800M", "Share Repurchases $3,000M", "Dividends $2,800M"
 
-## Margin of Safety
+### Reference Share Price
 
-| Scenario | Fair Value | Current Price | Upside/Downside |
-|----------|-----------|--------------|----------------|
-| Bull     | $78       | $56.84       | +37.2%         |
-| Base     | $56       | $56.84       | -1.5%          |
-| Bear     | $34       | $56.84       | -40.2%         |
+The TSX closing price for SU was $60.92 on December 31, 2025, as disclosed in Suncor's proxy circular. This is the most recent Suncor-sourced share price available.
 
-**Probability-Weighted Fair Value:** Assigning 25% bull, 50% base, 25% bear: (0.25 x $78) + (0.50 x $56) + (0.25 x $34) = $19.50 + $28.00 + $8.50 = **$56.00**
+[suncor-proxy-circular]: TSX closing price $60.92 on December 31, 2025
 
-The probability-weighted fair value of $56.00 is essentially equal to the current price of $56.84, suggesting **Suncor is fairly valued at current levels**. There is no meaningful margin of safety for a new position at this price. The stock is priced for the base case (flat commodity environment with stable operations) and offers upside only if commodity prices surprise to the upside or if operational improvements continue at the exceptional pace of the last two years.
+### Cash Flow Yield at Reference Price
 
-## Key Assumptions & Data Gaps
+Using only Suncor-disclosed data and the proxy circular reference price:
 
-### Assumptions Driving Valuation Most
+| Metric | Calculation | Result |
+|--------|-------------|--------|
+| Free funds flow per share (2025) | $6,927M / ~1,200M shares | ~$5.77 |
+| FFFlow yield at $60.92 | $5.77 / $60.92 | ~9.5% |
+| Normalized FFFlow per share (US$75 WTI) | $8,476M / ~1,200M shares | ~$7.06 |
+| Normalized FFFlow yield at $60.92 | $7.06 / $60.92 | ~11.6% |
+| Dividend yield at $60.92 | $2.40 annualized ($0.60 x 4) / $60.92 | ~3.9% |
+| Total shareholder return yield | $5,800M / (~1,200M x $60.92) | ~7.9% |
 
-1. **Oil price is the dominant variable.** Every $10/bbl move in WTI shifts annual EBITDA by roughly $2.5 to $3.0B and fair value by $15 to $20/share. The entire valuation range ($34 to $78) is driven primarily by the commodity price assumption, not by disagreement about Suncor's operational quality. (Inferred from the relationship between normalized FFFlow at US$75 and actual FFFlow at realized prices.)
+At the December 31, 2025 reference price, Suncor's normalized FFFlow yield of ~11.6% is notably high and suggests the market is pricing in meaningful commodity price risk (WTI declining below US$75) or structural concerns about long-duration oil sands assets.
 
-2. **Sustainability of operational improvements.** The base case assumes Suncor holds utilization rates near current records (103% refinery, 99% upgrader annual). If utilization mean-reverts to 95 to 97% (pre-Kruger levels), per-unit economics deteriorate meaningfully. The moat analysis rates these improvements as structural, but any analysis must acknowledge that 103% refinery utilization and 106% quarterly upgrader utilization may be near physical ceilings.
+## Key Assumptions and Limitations
 
-3. **Share buyback execution.** At $275M/month (~$3.3B annually), buybacks contribute ~4 to 5% annual per-share value accretion. This assumes management maintains this pace regardless of commodity environment; in a bear case, buybacks would likely slow, reducing per-share value creation. [suncor-q4-2025-earnings.md, 2026 Guidance]: "Monthly share repurchases increasing 10% to $275M"
+### What This Analysis Can Assess
 
-4. **EV/EBITDA multiple stability.** The base case assumes 7.0x is sustainable. If ESG-driven capital reallocation accelerates or terminal demand concerns deepen, integrated oil companies could see structural multiple compression toward 4 to 5x, which would reduce fair value materially even with stable cash flows.
+1. **Operational trajectory is positive.** Normalized FFFlow grew 15% YoY at constant commodity prices. Production hit records. Per-barrel costs declined. Utilization rates exceeded nameplate capacity. These are all Suncor-disclosed facts.
 
-### Data Gaps
+2. **Capital return program is well-covered.** At 2025 realized commodity prices, AFFO covered all capex, dividends, and buybacks with surplus. The implied break-even WTI of $40 to $45 provides substantial downside buffer for sustaining operations.
 
-- **5-year average multiples:** N/A (not in quarterly filing summaries; requires Bloomberg/Capital IQ)
-- **Sector median multiples:** N/A (not in quarterly filing summaries; requires Bloomberg/Capital IQ)
-- **Full upstream vs downstream margin split:** not disclosed in quarterly earnings summaries; required to properly model the natural hedge between upstream and refining under different commodity scenarios
-- **Break-even WTI price:** not disclosed; implied at approximately $40 to $45 based on sustaining capex plus dividend requirements [Financial Deep Dive.md, Break-Even Analysis]
-- **Environmental/reclamation liabilities:** not quantified in quarterly filings; requires 10-K/40-F [Financial Deep Dive.md, Red Flags]
-- **Pension/OPEB:** not quantified in quarterly filings; requires 10-K/40-F
-- **Off-balance-sheet items:** not detailed; requires 10-K/40-F
-- **Forward consensus beyond 2026:** only 2026E EPS of $3.85 available
+3. **Balance sheet provides flexibility.** Net debt of $6,337M and Net Debt/AFFO of 0.50x give management room to maintain shareholder returns even in a downturn.
+
+4. **Buyback accretion is meaningful.** With ~$3B to $3.3B in annual buybacks against a ~$73B equity value (at $60.92 x ~1,200M shares), per-share metrics are growing 4 to 5% annually from share count reduction alone, independent of operational improvement.
+
+### What This Analysis Cannot Assess Without Third-Party Data
+
+The following would be required for a complete valuation and cannot be derived from Suncor's own filings alone:
+
+| Data Gap | What It Would Provide | Source Required |
+|----------|----------------------|-----------------|
+| Market trading multiples (P/E, EV/EBITDA, P/FCF) | Relative valuation vs history and sector | Bloomberg, Capital IQ, or equivalent market data provider |
+| Peer company multiples | Comparative valuation (CNQ, IMO, CVE) | Peer company filings plus market data |
+| Forward consensus EPS/EBITDA estimates | Market expectations for future earnings | Analyst consensus aggregators |
+| Oil price forward curves and forecasts | Revenue and cash flow modeling under different price scenarios | Commodity exchanges, EIA, investment bank research |
+| 5-year historical multiple ranges | Mean-reversion valuation framework | Market data provider |
+| Sector and broad market valuation context | Relative attractiveness vs alternatives | Market data provider |
+| Discount rate benchmarks | DCF terminal value calibration | Risk-free rates, equity risk premium data |
+
+### Conclusion
+
+Based solely on Suncor-sourced data, the company's operational and financial fundamentals are strong and improving. Normalized cash flow generation is growing, the balance sheet is robust, and the capital return program is well-funded and accelerating. The December 31, 2025 proxy circular reference price of $60.92 implies a normalized FFFlow yield of ~11.6%, which appears attractive on an absolute basis but cannot be assessed on a relative basis without third-party market data. A complete valuation opinion would require the market data and peer comparisons listed in the data gaps table above.
