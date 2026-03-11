@@ -1,4 +1,4 @@
-# Industry Scan — SU
+# Industry Scan, SU
 
 > Source all claims from filings and industry data. Flag any inference.
 
@@ -29,7 +29,7 @@ The industry structure favours incumbents: all four major producers set record p
 [suncor-q4-2025-earnings, Full Year 2025 Results]: "Normalized FFFlow (US$75 WTI): $8,476M"
 [suncor-2024-annual, Production & Operations]: "Annual Refinery Utilization: 100% (record, +5% vs prior best)"
 
-**4. Autonomous Mining Technology:** Suncor and peers are deploying autonomous haul trucks and other mining automation technologies at oil sands mine sites. These reduce per-barrel operating costs and address structural labour shortages in remote northern Alberta. (Inferred from industry context; specific automation metrics not found in available filings.)
+**4. Autonomous Mining Technology:** Suncor and peers are deploying autonomous haul trucks and other mining automation technologies at oil sands mine sites. These reduce per-barrel operating costs and address structural labour shortages in remote northern Alberta. (industry context; not disclosed in Suncor filings)
 
 **5. Balance Sheet Strength Enabling Shareholder Returns:** Rapid deleveraging across the industry (Suncor net debt from $13,678M in 2023 to $6,337M in 2025) is enabling aggressive shareholder returns. Suncor returned $5,800M in 2025; CNQ returned $7,100M in 2024. This capital return posture attracts income-oriented investors and supports valuation floors.
 
@@ -49,7 +49,7 @@ Companies in the Canadian oil sands compete primarily on four dimensions:
 [suncor-peers, Strategic Positioning]: "Integrated model: oil sands + upgrading + refining + retail (Petro-Canada brand)"
 [suncor-peers, Strategic Positioning]: "Largest refiner in Canada; vertically integrated value chain"
 
-**3. Scale and Production Volume:** CNQ is the largest Canadian producer at 1,363,496 boe/d -- 65% larger than Suncor's 827,600 bbls/d (2024 figures). Scale drives cost dilution and negotiating leverage on transportation and services.
+**3. Scale and Production Volume:** CNQ is the largest Canadian producer at 1,363,496 boe/d, roughly 65% larger than Suncor's 827,600 bbls/d (2024 figures). Scale drives cost dilution and negotiating leverage on transportation and services.
 
 [suncor-peers, Strategic Positioning]: "Production 65% larger than Suncor"
 [suncor-peers, Peer Financial Comparison]: CNQ upstream production at "1,363,496 boe/d"
@@ -89,7 +89,7 @@ Suncor occupies the most vertically integrated position in the Canadian oil sand
 
 1. **Extraction:** Bitumen mining (Base Plant, Syncrude, Fort Hills) and in-situ extraction (Firebag). FY2025 Oil Sands bitumen production reached record levels, with Q4 2025 at 992,700 bbls/d.
 
-2. **Upgrading:** Conversion of bitumen into synthetic crude oil and diesel at upgrading facilities. Upgrader utilization reached 106% in Q4 2025 and 99% for FY2025. This is a key differentiator -- upgrading converts a discounted product (bitumen) into a premium product (SCO) that trades near WTI.
+2. **Upgrading:** Conversion of bitumen into synthetic crude oil and diesel at upgrading facilities. Upgrader utilization reached 106% in Q4 2025 and 99% for FY2025. This is a key differentiator; upgrading converts a discounted product (bitumen) into a premium product (SCO) that trades near WTI.
 
 3. **Refining:** Four refineries across Canada with 480,000 bbls/d throughput (FY2025 record) at 103% utilization. Suncor is the largest refiner in Canada. Refining provides a natural earnings hedge: when crude prices fall, crack spreads (refining margins) often widen.
 
@@ -106,7 +106,7 @@ This position is highly defensible. Replicating Suncor's integrated infrastructu
 |---------|-----------|------------|-----------|-------------|
 | SU | ~$68B USD | 828K boe/d (2024); 860K (2025) | 7.01x | Most integrated: oil sands + upgrading + refining + Petro-Canada retail. Post-Elliott operational turnaround. Record utilization across all segments. |
 | CNQ | ~$72B USD | 1,363K boe/d (2024) | 7.38x | Largest producer by volume. Diversified across oil sands, conventional, natural gas. 25-year dividend growth streak. Strongest income profile. |
-| IMO | ~$57B USD | 433K boe/d (2024) | 8.21-11.64x | 69.6% ExxonMobil-owned. Record 30-year production highs. Premium valuation reflects major-backed quality and highest per-barrel profitability. Smallest producer. |
+| IMO | ~$57B USD | 433K boe/d (2024) | 8.21 to 11.64x | 69.6% ExxonMobil-owned. Record 30-year production highs. Premium valuation reflects major-backed quality and highest per-barrel profitability. Smallest producer. |
 | CVE | ~$33B USD | 797K boe/d (2024) | 5.65x | Largest revenue among peers at ~C$39.6B. Integrated via Husky acquisition. Cheapest on relative valuation. Most leveraged to heavy oil differentials. |
 
 [suncor-peers, Peer Financial Comparison]: Market cap, production, and revenue figures.
@@ -120,8 +120,8 @@ This position is highly defensible. Replicating Suncor's integrated infrastructu
 | Revenue (C$) | ~$35.7B (TTM USD) | ~C$35.7B | ~C$51.5B | ~C$39.6B |
 | Adj. Funds from Ops (C$) | C$13.8B | C$14.9B | C$6.5B | C$8.2B |
 | Net Income | ~$4.3B (TTM USD) | C$6.1B | C$4.8B | C$3.1B |
-| Total Shareholder Returns | $5.7B | $7.1B | ~$1.8B (Q4 alone) | Not disclosed |
-| Dividend Growth | +5% to $0.57 | 25 consecutive years | +20% to $0.72 | Not disclosed |
+| Total Shareholder Returns | $5.7B | $7.1B | ~$1.8B (Q4 alone) | N/A |
+| Dividend Growth | +5% to $0.57 | 25 consecutive years | +20% to $0.72 | N/A |
 
 [suncor-peers, Peer Financial Comparison]: Revenue, adj. funds from ops, net income, shareholder returns, and dividend growth figures.
 [suncor-valuation-data, Income Statement (TTM)]: SU TTM revenue $35.67B, net income $4.32B.
@@ -136,4 +136,4 @@ This position is highly defensible. Replicating Suncor's integrated infrastructu
 
 4. **Supply-demand imbalance poses a medium-term headwind.** Global supply is forecast to outpace demand, with 477 mb of inventory builds in 2025 and world oil output growing +2.4 mb/d to 108.6 mb/d in 2026. EIA forecasts Brent declining from ~$58/bbl (2026) to ~$53/bbl (2027). Goldman Sachs forecasts WTI at $52/bbl. Canadian producers' cost structures must withstand a potentially prolonged sub-$60 WTI environment. [suncor-valuation-data, Supply/Demand Dynamics and Oil Price Forecasts]
 
-5. **Shareholder return discipline has become a competitive weapon.** CNQ's 25-year dividend growth streak, Suncor's $5,800M in 2025 returns (with 2026 buybacks increasing 10% to ~$3,300M), and IMO's aggressive capital returns reflect an industry-wide commitment to returning excess cash. This capital discipline -- combined with strong balance sheets (Suncor net debt at $6,337M, down from $13,678M in two years) -- positions the sector favourably relative to US E&P peers that historically reinvested more aggressively. [suncor-q4-2025-earnings, 2026 Guidance]: "Monthly share repurchases increasing 10% to $275M (from $250M)" and [suncor-peers, Peer Financial Comparison]: CNQ "25 consecutive years" of dividend growth.
+5. **Shareholder return discipline has become a competitive weapon.** CNQ's 25-year dividend growth streak, Suncor's $5,800M in 2025 returns (with 2026 buybacks increasing 10% to ~$3,300M), and IMO's aggressive capital returns reflect an industry-wide commitment to returning excess cash. This capital discipline, combined with strong balance sheets (Suncor net debt at $6,337M, down from $13,678M in two years), positions the sector favourably relative to US E&P peers that historically reinvested more aggressively. [suncor-q4-2025-earnings, 2026 Guidance]: "Monthly share repurchases increasing 10% to $275M (from $250M)" and [suncor-peers, Peer Financial Comparison]: CNQ "25 consecutive years" of dividend growth.
