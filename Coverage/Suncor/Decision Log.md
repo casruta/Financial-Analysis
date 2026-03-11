@@ -1,4 +1,4 @@
-# Decision Log — SU
+# Decision Log: SU
 
 > Re-read before each earnings update. Compare past expectations to actual outcomes.
 
@@ -6,7 +6,7 @@
 
 <!-- Copy this template for each new entry -->
 
-## YYYY-MM-DD — [ACTION] @ $[PRICE]
+## YYYY-MM-DD: [ACTION] @ $[PRICE]
 
 **Action:** Buy / Sell / Add / Trim / Hold
 **Position Size:** % of portfolio

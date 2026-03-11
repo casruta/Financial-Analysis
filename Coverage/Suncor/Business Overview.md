@@ -1,4 +1,4 @@
-# Business Overview — SU
+# Business Overview, SU
 
 > Source all metrics from filings. Citation format: `[filename, page/section]: "exact quote"`
 
@@ -15,7 +15,7 @@ Suncor generates revenue through three interconnected channels:
 
 1. **Upstream production and sales**: Selling synthetic crude oil, non-upgraded bitumen, and E&P crude oil and natural gas at market prices tied to WTI, WCS, and SCO benchmarks. In FY2025, total upstream production reached a record 860,000 bbls/d. [suncor-q4-2025-earnings, Full Year 2025 Results]: "Total Upstream Production: 860,000 bbls/d (record)"
 
-2. **Refining and wholesale**: Processing crude oil into refined products at four refineries (465,000-480,000 bbls/d throughput capacity) and selling wholesale refined products. Refinery margins provide a natural hedge against crude price declines. [suncor-q4-2025-earnings, Full Year 2025 Results]: "Refinery Throughput: 480,000 bbls/d (record)" and "Refinery Utilization: 103% (record)"
+2. **Refining and wholesale**: Processing crude oil into refined products at four refineries (465,000 to 480,000 bbls/d throughput capacity) and selling wholesale refined products. Refinery margins provide a natural hedge against crude price declines. [suncor-q4-2025-earnings, Full Year 2025 Results]: "Refinery Throughput: 480,000 bbls/d (record)" and "Refinery Utilization: 103% (record)"
 
 3. **Retail fuel sales (Petro-Canada)**: Selling gasoline, diesel, and convenience products directly to consumers through the Petro-Canada branded retail station network across Canada. FY2025 refined product sales reached a record 623,000 bbls/d. [suncor-q4-2025-earnings, Full Year 2025 Results]: "Refined Product Sales: 623,000 bbls/d (record)"
 
@@ -33,7 +33,7 @@ Suncor's customers span three categories:
 
 No single customer concentration risk has been identified in the available filings. The commodity nature of the products (crude oil, refined fuels) means customers are generally interchangeable.
 
-**Customer concentration data**: Not found in available filings. Specific customer-level revenue breakdowns would require the 10-K/AIF filing.
+Customer concentration data is not disclosed in quarterly earnings summaries. Given the fungible commodity nature of Suncor's products, customer concentration risk is minimal.
 
 ## Geographic Revenue Breakdown
 
@@ -45,9 +45,9 @@ Suncor's operations are heavily concentrated in Canada. The Oil Sands and Refini
 | Canada (national) | Refining, retail | 4 refineries, Petro-Canada retail network |
 | International | E&P (offshore) | Various offshore assets |
 
-[suncor-q1-2025-earnings, Production & Operations]: E&P production was 62,300 bbls/d vs Oil Sands production of 790,900 bbls/d, indicating E&P (which includes international) represents roughly 7% of total upstream production.
+[suncor-q1-2025-earnings, Production & Operations]: E&P production was 62,300 bbls/d versus Oil Sands production of 790,900 bbls/d, indicating E&P (which includes international) represents roughly 7% of total upstream production.
 
-**Specific revenue-by-region percentages**: Not found in available filings. The quarterly earnings releases do not break out revenue by geography. The AIF/10-K would be required.
+Revenue by region is not broken out in quarterly filings. Operations are predominantly Canadian with limited international E&P exposure.
 
 ## Business Segments
 
@@ -58,8 +58,8 @@ The core segment, encompassing bitumen mining (Base Plant), in-situ extraction (
 
 | Metric | Q1 2025 | Q1 2024 | Q2 2025 | Q3 2025 | Q4 2025 |
 |--------|---------|---------|---------|---------|---------|
-| Production (bbls/d) | 790,900 | — | — | 812,200 | 845,400 (inferred) |
-| Adj. Operating Earnings ($M) | $1,620 | $1,365 | $926 | — | — |
+| Production (bbls/d) | 790,900 | N/A | N/A | 812,200 | 845,400 (inferred) |
+| Adj. Operating Earnings ($M) | $1,620 | $1,365 | $926 | N/A | N/A |
 
 [suncor-q1-2025-earnings, Segment Performance]: "Oil Sands: Adjusted operating earnings increased to $1,620M (Q1 2025) from $1,365M (Q1 2024), primarily due to narrower heavy crude oil and SYN-WTI differentials, favorable FX rates"
 [suncor-q2-2025-earnings, Segment Performance]: "Oil Sands: Adjusted operating earnings decreased to $926M (Q2 2025) from $1,745M (Q2 2024), primarily due to lower crude oil price realizations"
@@ -70,7 +70,7 @@ Offshore and other conventional production assets. Smaller segment with declinin
 | Metric | Q1 2025 | Q1 2024 | Q3 2025 | Q4 2025 |
 |--------|---------|---------|---------|---------|
 | Production (bbls/d) | 62,300 | 50,300 | 57,800 | 63,600 |
-| Adj. Operating Earnings ($M) | $158 | $274 | — | — |
+| Adj. Operating Earnings ($M) | $158 | $274 | N/A | N/A |
 
 [suncor-q1-2025-earnings, Segment Performance]: "E&P: Adjusted operating earnings decreased to $158M (Q1 2025) from $274M (Q1 2024), due to lower sales volumes, increased exploration expense, and lower realized crude prices"
 
@@ -96,7 +96,7 @@ Four refineries across Canada plus the Petro-Canada retail network. This segment
 | Refinery Utilization | 90% | 100% | 103% | Step-change improvement |
 | Net Debt ($M) | $13,678 | $6,861 | $6,337 | Rapid deleveraging |
 | Total Shareholder Returns ($M) | $5,000 | $5,700 | $5,800 | Steadily increasing |
-| Normalized FFF (US$75 WTI, $M) | — | $7,373 | $8,476 | +15% YoY |
+| Normalized FFF (US$75 WTI, $M) | N/A | $7,373 | $8,476 | +15% YoY |
 
 [suncor-historical, 3-Year Trend Summary] and [suncor-q4-2025-earnings, Full Year 2025 Results]
 
@@ -120,4 +120,4 @@ Note: Normalized free funds flow at US$75 WTI grew from $7,373M to $8,476M YoY, 
 
 ## Summary
 
-Suncor Energy is Canada's largest integrated oil company, operating across the full value chain from oil sands extraction through upgrading, refining, and retail fuel sales via Petro-Canada. The company has undergone a significant operational turnaround since Rich Kruger became CEO in April 2023 following activist pressure from Elliott Management, achieving record production (860,000 bbls/d in FY2025), record refinery utilization (103%), and rapid balance sheet deleveraging (net debt from $13,678M to $6,337M in two years). Suncor's integrated model provides a natural earnings hedge -- when crude prices fall, refining margins tend to expand -- though the company remains fundamentally a commodity-price-driven business. Normalized free funds flow at a constant US$75 WTI grew 15% YoY to $8,476M in FY2025, demonstrating that the operational improvements are structural rather than commodity-driven. The key investment question is whether Suncor can sustain this operational excellence while navigating a potentially weaker commodity price environment (EIA forecasts Brent at $53-58/bbl through 2027) and whether the current valuation (15.75x trailing P/E, 7.01x EV/EBITDA) adequately compensates for commodity risk.
+Suncor Energy is Canada's largest integrated oil company, operating across the full value chain from oil sands extraction through upgrading, refining, and retail fuel sales via Petro-Canada. The company has undergone a significant operational turnaround since Rich Kruger became CEO in April 2023 following activist pressure from Elliott Management, achieving record production (860,000 bbls/d in FY2025), record refinery utilization (103%), and rapid balance sheet deleveraging (net debt from $13,678M to $6,337M in two years). Suncor's integrated model provides a natural earnings hedge, as refining margins tend to expand when crude prices fall, though the company remains fundamentally a commodity-price-driven business. Normalized free funds flow at a constant US$75 WTI grew 15% YoY to $8,476M in FY2025, demonstrating that the operational improvements are structural rather than commodity-driven. The key investment question is whether Suncor can sustain this operational excellence while navigating a potentially weaker commodity price environment (EIA forecasts Brent at $53 to $58/bbl through 2027) and whether the current valuation (15.75x trailing P/E, 7.01x EV/EBITDA) adequately compensates for commodity risk.

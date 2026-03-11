@@ -1,4 +1,4 @@
-# Earnings Update — SU Q# YYYY
+# Earnings Update: SU Q# YYYY
 
 > Run after each earnings release. Source all data from the earnings report and transcript.
 

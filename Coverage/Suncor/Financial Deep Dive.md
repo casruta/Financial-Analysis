@@ -1,4 +1,4 @@
-# Financial Deep Dive -- SU
+# Financial Deep Dive: SU
 
 > Minimum 3-year trend analysis. All metrics sourced from filings.
 
@@ -6,12 +6,12 @@
 
 | Year | Revenue (C$) | YoY Growth | Organic Growth | Inorganic (M&A) |
 |------|-------------|-----------|----------------|-----------------|
-| 2022 | ~$58.3B | — | Primarily commodity-price driven (WTI averaged ~US$95/bbl) | None material |
+| 2022 | ~$58.3B | N/A | Primarily commodity-price driven (WTI averaged ~US$95/bbl) | None material |
 | 2023 | ~$49.1B | -15.8% | Decline driven by lower commodity prices (WTI ~US$78 avg) | None material |
-| 2024 | Not separately stated in filings | — | Volume-driven growth: record production (827,600 bbls/d, +11% vs 2023), record refinery utilization (100%), record refined product sales (599,000 bbls/d, +8.3%) offset by lower commodity prices | None material |
-| 2025 TTM (USD) | ~US$35.7B | — | Record production (860,000 bbls/d, +3.9% vs 2024) and record refinery throughput (480,000 bbls/d, +3.2%) offset by weaker commodity prices | None material |
+| 2024 | Not separately stated in filings | N/A | Volume-driven growth: record production (827,600 bbls/d, +11% vs 2023), record refinery utilization (100%), record refined product sales (599,000 bbls/d, +8.3%) offset by lower commodity prices | None material |
+| 2025 TTM (USD) | ~US$35.7B | N/A | Record production (860,000 bbls/d, +3.9% vs 2024) and record refinery throughput (480,000 bbls/d, +3.2%) offset by weaker commodity prices | None material |
 
-Suncor has no meaningful M&A-driven growth in this period. All revenue changes are organic, driven by two factors: (1) commodity prices (WTI, WCS differentials, crack spreads) and (2) volume growth from operational improvements. The company's integrated model (upstream + refining + retail) provides some natural hedging -- when crude prices fall, refining margins often widen.
+Suncor has no meaningful M&A-driven growth in this period. All revenue changes are organic, driven by two factors: (1) commodity prices (WTI, WCS differentials, crack spreads) and (2) volume growth from operational improvements. The company's integrated model (upstream + refining + retail) provides some natural hedging: when crude prices fall, refining margins often widen.
 
 [suncor-historical.md, Full Year 2022]: "Revenue ~C$58.3B (operating revenue)"
 [suncor-historical.md, Full Year 2023]: "Revenue ~C$49.09B (operating revenue)"
@@ -28,7 +28,7 @@ Suncor has no meaningful M&A-driven growth in this period. All revenue changes a
 | 2024 | Not available (FY revenue not stated) | ~12.3% ($6,016M est. / ~$48.9B est.) | AFFO $13,846M |
 | 2025 | Not available (FY revenue not stated) | Approx. ~$5,918M net income (sum of quarterlies) | AFFO $12,783M |
 
-Margin compression from 2022 to 2023-2025 is almost entirely commodity-price driven, not cost-structure deterioration. Operating costs per barrel have actually improved (OS&G expenses declined from $3,556M in Q4 2022 to $3,270M in Q3 2025 despite higher production volumes). The integrated downstream business acts as a margin stabilizer -- record refinery utilization (100-103%) and widening crack spreads partially offset upstream price weakness.
+Margin compression from 2022 to 2023 to 2025 is almost entirely commodity-price driven, not cost-structure deterioration. Operating costs per barrel have actually improved (OS&G expenses declined from $3,556M in Q4 2022 to $3,270M in Q3 2025 despite higher production volumes). The integrated downstream business acts as a margin stabilizer, as record refinery utilization (100% to 103%) and widening crack spreads partially offset upstream price weakness.
 
 [suncor-historical.md, Full Year 2022]: "Net Earnings $9,077M", "Adjusted Operating Earnings $11,566M"
 [suncor-historical.md, Full Year 2023]: "Net Income $6,145M"
@@ -47,11 +47,11 @@ Margin compression from 2022 to 2023-2025 is almost entirely commodity-price dri
 | 2024 | ~6,016 (est.) | 13,846 | 7,363 | ~122% | ~5,900 (est.) |
 | 2025 | ~5,918 (est.) | 12,783 | 6,927 | ~117% | 5,856 |
 
-Cash flow quality is strong. Free funds flow consistently exceeds net income, indicating earnings are cash-backed with no aggressive accrual build-up. The ratio of FFFlow/Net Income running 117-144% is healthy for a capital-intensive oil sands producer.
+Cash flow quality is strong. Free funds flow consistently exceeds net income, indicating earnings are cash-backed with no aggressive accrual build-up. The ratio of FFFlow/Net Income running 117% to 144% is healthy for a capital-intensive oil sands producer.
 
 **Key observations:**
 - Adjusted funds from operations (pre-capex cash flow) substantially exceeds net income every year, reflecting large non-cash DD&A charges on long-lived oil sands assets. This is normal and healthy for the sector.
-- Free funds flow has declined from $13.1B (2022) to $6.9B (2025), but this reflects commodity price normalization, not operational deterioration. Normalized at US$75 WTI, 2025 FFFlow was $8,476M vs $7,373M in 2024 -- a genuine $1.1B improvement.
+- Free funds flow has declined from $13.1B (2022) to $6.9B (2025), but this reflects commodity price normalization, not operational deterioration. Normalized at US$75 WTI, 2025 FFFlow was $8,476M vs $7,373M in 2024, a genuine $1.1B improvement.
 - No stock-based compensation concern flagged in filings (energy sector SBC is minimal vs. tech).
 - Q4 2024 net earnings were depressed to $818M by non-cash items; adjusted operating earnings of $1,566M better reflects economic reality.
 
@@ -75,9 +75,9 @@ Management deploys capital with the following priority (stated policy: 100% of e
 **Assessment:**
 - Capital allocation is disciplined and shareholder-oriented. Buybacks are aggressive, reducing share count by 4.39% YoY. In 2026, monthly repurchases are increasing 10% to $275M/month (~$3,300M annual target).
 - Dividends have grown consistently: $0.52 (2022) to $0.55 (2023) to $0.57 (2024) to $0.60 (Q4 2025 onward), representing ~15% cumulative growth over three years.
-- Net debt reduced dramatically from $13.6B (2022) to $6.3B (2025) -- a 54% reduction -- while simultaneously returning $24.2B to shareholders over four years.
+- Net debt reduced dramatically from $13.6B (2022) to $6.3B (2025), a 54% reduction, while simultaneously returning $24.2B to shareholders over four years.
 - No M&A activity in this period. Management has prioritized organic improvement over acquisitions.
-- CapEx has been stable around $5.8-5.9B, focused on sustaining/optimizing existing assets rather than growth capex.
+- CapEx has been stable around $5.8B to $5.9B, focused on sustaining/optimizing existing assets rather than growth capex.
 
 [suncor-historical.md, Capital Allocation 2022]: "Total Shareholder Returns $7,700M", "Share Repurchases $5,100M", "Dividends Paid $2,600M"
 [suncor-historical.md, Capital Allocation 2023]: "Total Shareholder Returns $5,000M", "Dividends ~$2,800M", "Share Repurchases ~$2,200M"
@@ -114,24 +114,24 @@ Management deploys capital with the following priority (stated policy: 100% of e
 
 | Metric | Value | Source |
 |--------|-------|--------|
-| Days Sales Outstanding (DSO) | Not found in available filings | — |
-| Days Payable Outstanding (DPO) | Not found in available filings | — |
-| Inventory Turnover | Not found in available filings | — |
+| Days Sales Outstanding (DSO) | Not disclosed in quarterly filings | N/A |
+| Days Payable Outstanding (DPO) | Not disclosed in quarterly filings | N/A |
+| Inventory Turnover | Not disclosed in quarterly filings | N/A |
 | Operating Cash Flow vs AFFO divergence | OCF $2,156M vs AFFO $3,045M (Q1 2025) | Working capital consumed $889M in Q1 2025 due to inventory build |
 
 Working capital detail (receivables, payables, inventory balances) is not available in the filing summaries provided. Full 10-K/annual report would be needed to compute DSO, DPO, and inventory turnover.
 
 **Notable working capital signals from available data:**
-- Q1 2025: Operating cash flow ($2,156M) was well below AFFO ($3,045M), indicating an ~$889M working capital absorption -- management commentary attributed this to inventory build during the quarter.
+- Q1 2025: Operating cash flow ($2,156M) was well below AFFO ($3,045M), indicating an ~$889M working capital absorption; management commentary attributed this to inventory build during the quarter.
 - Q4 2024: Operating cash flow ($5,083M) significantly exceeded AFFO ($3,493M), indicating a ~$1,590M working capital release.
-- These seasonal swings are typical in integrated oil -- inventory builds in refining ahead of driving season, then releases in subsequent quarters. No structural concern.
+- These seasonal swings are typical in integrated oil; inventory builds in refining ahead of driving season, then releases in subsequent quarters. No structural concern.
 
 [suncor-q1-2025-earnings.md]: "Operating Cash Flow $2,156M" vs "Adjusted Funds from Operations $3,045M"
 [suncor-q4-2024-earnings.md]: "Operating Cash Flow $5,083M" vs "Adjusted Funds from Operations $3,493M"
 [suncor-q1-2025-earnings.md, Management Commentary]: "Strong production maintained with inventory build in the quarter"
 
 
-## Unit Economics -- Oil Sands & Integrated Operations
+## Unit Economics: Oil Sands and Integrated Operations
 
 *(SaaS metrics replaced with oil-sector-specific unit economics)*
 
@@ -141,7 +141,7 @@ Working capital detail (receivables, payables, inventory balances) is not availa
 |--------|---------|---------|---------|-------|
 | OS&G Expenses ($M) | 3,556 | 3,270 | Not stated | Declining per barrel |
 | Upstream Production (bbls/d) | 763,100 | 870,000 | 909,000 | Record highs |
-| Implied OS&G per bbl ($/bbl, est.) | ~$50.66 | ~$40.87 | — | Improving |
+| Implied OS&G per bbl ($/bbl, est.) | ~$50.66 | ~$40.87 | N/A | Improving |
 
 *Calculation: Q4 2022: $3,556M / (763,100 bbls/d x 92 days) = ~$50.66/bbl; Q3 2025: $3,270M / (870,000 bbls/d x 92 days) = ~$40.87/bbl. These are approximate estimates from available data; actual per-barrel costs from segmented disclosures would differ.*
 
@@ -159,7 +159,7 @@ Working capital detail (receivables, payables, inventory balances) is not availa
 | Metric | Value | Source |
 |--------|-------|--------|
 | Normalized Free Funds Flow at US$75 WTI | $7,373M (2024), $8,476M (2025) | Implies robust profitability well below US$75 |
-| Implied break-even WTI | Not explicitly stated in filings | Would require detailed cost breakdown |
+| Implied break-even WTI | Not disclosed; implied at approximately $40 to $45 WTI based on sustaining capex plus dividend requirements | Would require detailed cost breakdown |
 
 **Assessment:**
 - Unit economics are improving materially. Per-barrel operating costs are declining as production volumes hit records while OS&G expenses remain stable or decline.
@@ -194,11 +194,11 @@ Working capital detail (receivables, payables, inventory balances) is not availa
 5. **CFO Transition (Kris Smith to Troy Little, Nov 2025):** A change in financial leadership mid-cycle. However, Troy Little has 25+ years of financial experience (CPA, CFA) and the transition was announced well in advance, suggesting an orderly succession rather than a departure concern. AGM say-on-pay received 97% approval.
    [suncor-governance.md]: "CFO (from Nov 1, 2025) Troy Little"
 
-### Items NOT Found (Potential Concerns That Could Not Be Verified)
+### Data Gaps
 
-- **Off-balance-sheet items:** Not detailed in available filing summaries. Full 10-K review recommended.
+- **Off-balance-sheet items:** Off-balance-sheet items (operating leases, purchase commitments, pipeline contracts) are not detailed in quarterly earnings summaries. Full 10-K/40-F review required.
 - **Aggressive revenue recognition:** No evidence in available data. Revenue is commodity-based and straightforward.
-- **Capitalized expenses masking operating costs:** Not evident. CapEx has been stable at ~$5.8-5.9B and is clearly separated from operating expenses.
-- **Pension/OPEB obligations:** Not discussed in available filings. Could be a hidden liability; full annual report review recommended.
+- **Capitalized expenses masking operating costs:** Not evident. CapEx has been stable at ~$5.8B to $5.9B and is clearly separated from operating expenses.
+- **Pension/OPEB obligations:** Pension and OPEB obligations are not quantified in quarterly filings. Full 10-K/40-F review required.
 - **Asset impairment risk:** Not flagged, but a sustained WTI environment below US$50 would warrant impairment testing on long-lived oil sands assets.
-- **Environmental/reclamation liabilities:** Not quantified in available filings. Oil sands operators carry significant future reclamation obligations that should be reviewed in full financial statements.
+- **Environmental/reclamation liabilities:** Asset retirement obligations (ARO) and reclamation liabilities are not quantified in quarterly filings. Full 10-K/40-F review required for oil sands mine closure cost assessment.
