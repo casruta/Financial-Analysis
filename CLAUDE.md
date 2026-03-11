@@ -11,12 +11,13 @@ This repository contains independent equity research. Each company under coverag
 
 ## Research Rules
 - Base all factual claims on documents in the company's `filings/` directory
-- Citation format: `[filename, page/section]: "exact quote" -> interpretation`
-- For unsourced claims: state "Not found in available filings"
-- Never fill gaps with training data or general knowledge
-- If a number cannot be verified from filings, say so explicitly
+- Citation format: `filename, page/section: "exact quote" -> interpretation`
+- Never fill gaps with training data, general knowledge or consencus
+- If a number cannot be verified from filings, do the following:
+        - plan an alternative way to verify the number with real data
+        - highlight what data was used, and clearly state that the data was not found in the filings
 - Prefer the most recent filing period; flag older data with its period
-- Mark inferences as "(inferred from [source])"; never present inferences as facts
+- Mark inferences as "inferred from [source])"; never present inferences as facts
 
 ## Analysis Sequence
 For each new company, work through these files in order:
@@ -31,7 +32,7 @@ For each new company, work through these files in order:
 9. Decision Log entry when making investment decisions
 
 ## Output Standards
-- Clear headers, short paragraphs, plain English
+- Clear headers, short paragraphs, plain grade-12 English geared towards an informed audience
 - Use tables for comparative data
 - Every metric must include its source filing and period
 - No em dashes or double hyphens in text; use "to" for ranges (e.g., "$55 to $65")
