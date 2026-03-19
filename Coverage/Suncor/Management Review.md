@@ -4,11 +4,11 @@
 
 ## Capital Allocation Track Record
 
-**M&A Quality:** No major acquisitions under Kruger's tenure. Capital has been directed toward organic debottlenecking, debt reduction, and shareholder returns rather than M&A. The last major transaction was the TotalEnergies Fort Hills stake acquisition (pre-Kruger), which added low-cost oil sands production. Management's restraint on M&A during a period of strong cash flow is a positive signal.
+**M&A Quality:** Kruger hasn't done a major deal. Capital has gone to organic debottlenecking, debt reduction, and shareholder returns instead of acquisitions. The last big transaction was TotalEnergies' Fort Hills stake (pre-Kruger), which added low-cost oil sands production. Management's refusal to chase M&A during a period of strong cash flow is a positive signal.
 
-**Buyback Timing:** Share repurchases were executed consistently through 2022 to 2025 rather than concentrated at peaks. The share count has declined materially through sustained repurchase activity. Total shareholder returns were $7.7B (2022), $5.0B (2023), $5.7B (2024), and $5.8B (2025) [suncor-historical, Capital Allocation; suncor-q4-2025-earnings, Full Year 2025 Results]. Buyback discipline appears reasonable; repurchases continued at consistent levels across varying commodity price environments rather than surging at cycle tops.
+**Buyback Timing:** Share repurchases ran consistently from 2022 through 2025 rather than clustering at peaks. The share count has fallen materially through sustained buyback activity. Total shareholder returns were $7.7B (2022), $5.0B (2023), $5.7B (2024), and $5.8B (2025) [suncor-historical, Capital Allocation; suncor-q4-2025-earnings, Full Year 2025 Results]. Buyback discipline looks reasonable; repurchases continued at steady levels across shifting commodity price environments rather than surging at cycle tops.
 
-**Net Debt Reduction:** One of the most decisive capital allocation moves under Kruger was the dramatic net debt reduction from $13.7B (year-end 2023) to $6.3B (year-end 2025) [suncor-historical, 3-Year Trend Summary]: "Net Debt ($M): 13,639 | 13,678 | 6,861"; [suncor-q4-2025-earnings, Balance Sheet]: "Net Debt: $6,337M". The $8B net debt target was achieved nine months ahead of schedule [suncor-2024-annual, Balance Sheet]: "Achieved $8B net debt target nine months ahead of May 2024 three-year plan projection."
+**Net Debt Reduction:** The most decisive capital move under Kruger was slashing net debt from $13.7B (year-end 2023) to $6.3B (year-end 2025), a 54% cut [suncor-historical, 3-Year Trend Summary]: "Net Debt ($M): 13,639 | 13,678 | 6,861"; [suncor-q4-2025-earnings, Balance Sheet]: "Net Debt: $6,337M". The $8B net debt target was hit nine months ahead of schedule [suncor-2024-annual, Balance Sheet]: "Achieved $8B net debt target nine months ahead of May 2024 three-year plan projection."
 
 
 ## Insider Ownership
@@ -19,7 +19,7 @@
 | Kris Smith (former CFO) | 94,078 common shares, 28,375 DSUs, 37,964 RSUs; ownership value $9,772,604 (11x salary) | Material (total value at risk $28,954,273, 32.7x salary) | Retired Dec 2025 |
 | Troy Little (CFO) | 0 common shares, 0 DSUs, 8,878 RSUs; ownership value $540,848 (1.1x salary, below 2x guideline) | Below guideline | Appointed Nov 2025; total value at risk $1,864,063 (3.7x salary) |
 
-[suncor-governance, Insider Ownership]: "CEO Rich Kruger received $23.11M restricted stock grant upon joining." Smith held 94,078 common shares, 28,375 DSUs, and 37,964 RSUs with an ownership value of $9,772,604 (11x salary) and total value at risk of $28,954,273 (32.7x salary). Little holds 0 common shares, 0 DSUs, and 8,878 RSUs with an ownership value of $540,848 (1.1x salary, below the 2x guideline); total value at risk of $1,864,063 (3.7x salary) [suncor-governance, Insider Ownership]. Management's restricted stock compensation structure ensures meaningful skin in the game. Little's ownership is below the 2x salary guideline but is expected to build over time given his recent appointment.
+[suncor-governance, Insider Ownership]: "CEO Rich Kruger received $23.11M restricted stock grant upon joining." Smith held 94,078 common shares, 28,375 DSUs, and 37,964 RSUs with an ownership value of $9,772,604 (11x salary) and total value at risk of $28,954,273 (32.7x salary). Little holds 0 common shares, 0 DSUs, and 8,878 RSUs with an ownership value of $540,848 (1.1x salary, below the 2x guideline); total value at risk of $1,864,063 (3.7x salary) [suncor-governance, Insider Ownership]. The restricted stock compensation structure gives management real skin in the game. Little's ownership sits below the 2x salary guideline but should build over time given his recent appointment.
 
 
 ## Compensation Structure
@@ -36,7 +36,7 @@
 
 [suncor-governance, 2026 Proxy Circular / CEO Compensation]: CEO 2024 total direct compensation C$18,773,000. LTI mix is 60% PSUs and 40% RSUs. AIP target is 130% of base salary. 2024 AIP corporate score was 1.56x target, reflecting record operational results. Say-on-pay approval at 2025 AGM: 97.06% [suncor-governance, Key Governance Features].
 
-**Incentive Alignment:** Strong shareholder confidence in compensation design is evidenced by the 2025 AGM results, where Board Chair Girling received 97.06% approval [suncor-governance, Key Governance Features]: "2025 AGM: board nominees elected with strong support (Girling 97.06% approval)." The heavy weighting toward restricted stock aligns management with long-term shareholder value. The sign-on grant, while large, was necessary to recruit Kruger from retirement and has been validated by operational results.
+**Incentive Alignment:** Shareholders endorsed the compensation design at the 2025 AGM: Board Chair Girling received 97.06% approval [suncor-governance, Key Governance Features]: "2025 AGM: board nominees elected with strong support (Girling 97.06% approval)." The heavy weighting toward restricted stock ties management to long-term shareholder value. The sign-on grant was large, but it was the price of recruiting Kruger from retirement, and operational results have justified it.
 
 
 ## Guidance Credibility
@@ -57,20 +57,20 @@
 
 [suncor-q3-2025-earnings, 2025 Guidance (Revised November 4, 2025)]: Upstream production revised from "810,000 to 840,000" to "845,000 to 855,000 bbls/d"; Refinery utilization from "93% to 97%" to "101% to 102%"; Refinery throughput from "435,000 to 450,000" to "470,000 to 475,000 bbls/d". [suncor-q4-2025-earnings, Full Year 2025 Results]: actual production 860,000 bbls/d, refinery utilization 103%, throughput 480,000 bbls/d.
 
-**Pattern Analysis:** Management consistently sandbagged operational guidance, then delivered upward revisions. The November 2025 guidance revision was dramatic: refinery utilization jumped from 93% to 97% guidance to 101% to 102%, and even the revised guidance was exceeded. Q2 2025 was impacted by a one-time 91-day Upgrader 1 outage [suncor-q2-2025-earnings, Production & Operations]: "Upgrader 1 outage of 91 days," yet production still fell within the original guidance range. This is a management team that under-promises and over-delivers.
+**Pattern Analysis:** Management sandbagged operational guidance, then delivered upward revisions. Every time. The November 2025 revision was stark: refinery utilization jumped from 93% to 97% guidance to 101% to 102%, and even the revised target was beaten. Q2 2025 took a hit from a one-time 91-day Upgrader 1 outage [suncor-q2-2025-earnings, Production & Operations]: "Upgrader 1 outage of 91 days," yet production still landed within the original guidance range. This is a team that under-promises and over-delivers.
 
 
 ## Communication Style
 
-Management communication under Kruger is direct, operationally focused, and avoids promotional language. Key observations:
+Kruger's management communication is direct, operationally focused, and free of promotional language. Key observations:
 
-**Forthright Problem Acknowledgment:** The Q2 2025 91-day Upgrader 1 outage was addressed directly as "a one-time operational challenge" [suncor-q2-2025-earnings, Management Commentary] rather than being buried or deflected. Production still fell within the original guidance range despite the operational headwind.
+**Forthright Problem Acknowledgment:** The Q2 2025 91-day Upgrader 1 outage was addressed head-on as "a one-time operational challenge" [suncor-q2-2025-earnings, Management Commentary] rather than buried or deflected. Production still landed within the original guidance range despite the setback.
 
-**Results-Oriented Framing:** Earnings commentary consistently leads with operational metrics (production volumes, utilization rates, safety records) before financial results. This reflects a management team focused on controllable variables rather than commodity price narratives.
+**Results-Oriented Framing:** Earnings commentary leads with operational metrics (production volumes, utilization rates, safety records) before financial results. That shows a management team focused on controllable variables rather than commodity price narratives.
 
-**Conservative Posture:** Guidance is set conservatively, with management preferring to raise guidance mid-year (as done in November 2025) rather than issuing aspirational targets. The $8B net debt target being achieved nine months early reflects this philosophy.
+**Conservative Posture:** Guidance is set low, with management preferring to raise it mid-year (as it did in November 2025) rather than issue aspirational targets. The $8B net debt target being hit nine months early fits this pattern.
 
-**Consistency of Message:** From Q4 2024 through Q4 2025, the strategic framework has remained unchanged: operational excellence, cost discipline, debt reduction, and returning 100% of excess funds to shareholders. There has been no strategic drift or flavor-of-the-month pivoting.
+**Consistency of Message:** From Q4 2024 through Q4 2025, the strategic framework hasn't changed: operational excellence, cost discipline, debt reduction, and returning 100% of excess funds to shareholders. No strategic drift. No flavor-of-the-month pivoting.
 
 
 ## Leadership Tenure & Succession
@@ -84,13 +84,13 @@ Management communication under Kruger is direct, operationally focused, and avoi
 
 [suncor-governance, Management Team]: Full management team details. Average management team tenure is short following the 2022 to 2023 leadership refresh (Suncor does not disclose an aggregate tenure figure).
 
-**CEO Context:** Rich Kruger was appointed after Elliott Management's activist campaign (~$3.4B stake) pushed for leadership change following safety incidents and operational underperformance [suncor-governance, Elliott Management Activist Campaign]: "Elliott Investment Management took a significant stake in Suncor (~$3.4B)... pushed for operational improvements, safety overhaul, and leadership changes." The results have been transformational: record production, 100%+ refinery utilization, dramatically improved safety, and the net debt target achieved ahead of schedule [suncor-governance, CEO Background]: "Under his leadership, Suncor achieved record production, 100% refinery utilization, and significant debt reduction."
+**CEO Context:** Rich Kruger was appointed after Elliott Management's activist campaign (~$3.4B stake) pushed for leadership change following safety incidents and operational underperformance [suncor-governance, Elliott Management Activist Campaign]: "Elliott Investment Management took a significant stake in Suncor (~$3.4B)... pushed for operational improvements, safety overhaul, and leadership changes." The results have been transformational: all-time-high production, 100%+ refinery utilization, a sharply improved safety record, and the net debt target hit ahead of schedule [suncor-governance, CEO Background]: "Under his leadership, Suncor achieved record production, 100% refinery utilization, and significant debt reduction."
 
-**CFO Succession Risk:** The CFO transition from Kris Smith to Troy Little is the primary succession concern. Little has been at Suncor and has deep financial credentials (CPA, CFA, 25+ years in finance), but has only been CFO since November 2025. The transition was executed with a two-month overlap period (November to December 2025) [suncor-governance, Management Team / Key Governance Features]: "CFO succession executed smoothly (Smith to Little, Nov 2025)." However, investors will need 2 to 3 quarters to assess Little's performance independently.
+**CFO Succession Risk:** The CFO transition from Kris Smith to Troy Little is the primary succession concern. Little has deep financial credentials (CPA, CFA, 25+ years in finance) and knows the company, but he's only been CFO since November 2025. The transition included a two-month overlap (November to December 2025) [suncor-governance, Management Team / Key Governance Features]: "CFO succession executed smoothly (Smith to Little, Nov 2025)." Still, investors will need 2 to 3 quarters to judge Little's performance independently.
 
-**CEO Succession:** Kruger is the critical man. He was recruited from retirement at age ~67 (in 2023), making medium-term CEO succession a watchpoint. No public successor has been named. The board (10 of 11 independent, separate non-executive chair) provides governance infrastructure for an orderly transition [suncor-governance, Board of Directors]: "11 members elected at 2025 AGM (10 independent)."
+**CEO Succession:** Kruger is the critical man. He was recruited from retirement at roughly age 67 (in 2023), making medium-term CEO succession a key watchpoint. No public successor has been named. The board (10 of 11 independent, separate non-executive chair) provides governance infrastructure for an orderly transition [suncor-governance, Board of Directors]: "11 members elected at 2025 AGM (10 independent)."
 
-**Bench Depth:** Average management tenure is short, reflecting the post-Elliott leadership refresh. This is a double-edged sword: fresh perspective and accountability, but limited institutional depth at the senior level.
+**Bench Depth:** Average management tenure is short, a byproduct of the post-Elliott leadership refresh. That's a double-edged sword: fresh perspective and accountability, but limited institutional depth at the senior level.
 
 
 ## Overall Rating
@@ -99,15 +99,15 @@ Management communication under Kruger is direct, operationally focused, and avoi
 
 **Reasoning:**
 
-The Kruger-era management team earns the highest rating based on a convergence of evidence across every evaluation dimension:
+Kruger's management team earns the top rating. The evidence converges across every evaluation dimension:
 
-1. **Capital Allocation (Excellent):** Net debt reduced by $7.3B in two years ($13.7B to $6.3B), $8B target achieved nine months early, consistent $5 to $6B annual shareholder returns, disciplined buyback cadence, and no value-destructive M&A.
+1. **Capital Allocation (Excellent):** Net debt fell $7.3B in two years ($13.7B to $6.3B). The $8B target was hit nine months early. Shareholder returns ran $5B to $6B annually. Buyback cadence stayed disciplined. No value-destructive M&A.
 
-2. **Operational Execution (Excellent):** Record production in every year of Kruger's tenure (745,700 to 860,000 bbls/d annual; 909,000 bbls/d quarterly record in Q4 2025). Refinery utilization moved from 90% to 94% (pre-Kruger) to 100% to 108%. These are not marginal improvements; they represent a step-change in asset productivity.
+2. **Operational Execution (Excellent):** Production set a new high in every year of Kruger's tenure (745,700 to 860,000 bbls/d annual; 909,000 bbls/d quarterly best in Q4 2025). Refinery utilization moved from 90% to 94% (pre-Kruger) to 100% to 108%. These aren't marginal improvements; they represent a step-change in asset productivity.
 
-3. **Guidance Credibility (Excellent):** Systematic sandbagging with consistent beats. The November 2025 guidance revision (refinery utilization from 93% to 97% to 101% to 102%, then actual 103%) is representative. Q2 2025 production was impacted by a disclosed one-time 91-day upgrader outage yet still fell within the original guidance range.
+3. **Guidance Credibility (Excellent):** Systematic sandbagging with consistent beats. The November 2025 guidance revision (refinery utilization from 93% to 97% to 101% to 102%, then actual 103%) is representative. Q2 2025 production took a hit from a disclosed 91-day upgrader outage yet still fell within the original guidance range.
 
-4. **Governance (Good):** 10/11 independent board, 97% say-on-pay approval, separate board chair, smooth CFO succession execution. Offset slightly by the new CFO's limited track record and medium-term CEO succession uncertainty given Kruger's age.
+4. **Governance (Good):** 10/11 independent board, 97% say-on-pay approval, separate board chair, smooth CFO succession. Offset slightly by the new CFO's limited track record and medium-term CEO succession uncertainty given Kruger's age.
 
 5. **Incentive Alignment (Good):** Heavy restricted stock weighting in CEO compensation aligns with shareholders. The $23.11M sign-on grant has been validated by performance. The 97% say-on-pay vote confirms shareholder approval.
 

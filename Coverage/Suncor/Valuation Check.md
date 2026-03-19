@@ -15,7 +15,7 @@ This valuation framework is built exclusively from Suncor-sourced data. Market m
 | AFFO | $13,846M | $12,783M | -7.7% |
 | CapEx | ~$5,900M | $5,856M | Stable |
 
-The normalized free funds flow metric is the most important number Suncor discloses for valuation purposes. By stripping out commodity price effects and holding WTI constant at US$75/bbl, it reveals genuine operational improvement: $1.1B more cash flow generated at the same oil price, driven by record production (860,000 bbls/d), record refinery utilization (103%), and declining per-barrel costs.
+Normalized free funds flow is the most important number Suncor discloses for valuation. Strip out commodity price swings, hold WTI constant at US$75/bbl, and the picture is clear: $1.1B more cash flow generated at the same oil price. Record production (860,000 bbls/d), record refinery utilization (103%), and declining per-barrel costs drove the gain.
 
 [suncor-q4-2025-earnings.md, Full Year 2025]: "Normalized FFFlow (US$75 WTI) $8,476M" vs 2024 "$7,373M"
 [suncor-q4-2025-earnings.md, Full Year 2025]: "Adjusted Funds from Operations $12,783M", "Free Funds Flow $6,927M"
@@ -29,7 +29,7 @@ The normalized free funds flow metric is the most important number Suncor disclo
 | Share repurchases | 3,000 (2025 actual); ~3,300 (2026 target at $275M/month) | Q4 2025 press release, 2026 guidance |
 | Total capital + shareholder commitments | ~11,656 (2025); ~11,956 (2026 target) | Sum of above |
 
-At 2025 realized commodity prices, AFFO of $12,783M covered all capital requirements and shareholder returns with ~$1.1B to spare (used for net debt reduction from $6,861M to $6,337M). The minimum AFFO required to sustain capital expenditures plus dividends (excluding buybacks) is approximately $8.7B, which provides meaningful headroom against commodity price declines.
+At 2025 realized commodity prices, AFFO of $12,783M covered all capital requirements and shareholder returns with ~$1.1B to spare (used for net debt reduction from $6,861M to $6,337M). The minimum AFFO needed to sustain capex plus dividends (excluding buybacks) is roughly $8.7B, which provides meaningful headroom against commodity price declines.
 
 [suncor-q4-2025-earnings.md, Full Year 2025]: "Total Shareholder Returns $5,800M", "Share Repurchases $3,000M", "Dividends $2,800M", "Capital Expenditures $5,856M"
 [suncor-q4-2025-earnings.md, 2026 Guidance]: "Monthly share repurchases increasing 10% to $275M"
@@ -40,8 +40,8 @@ Based on Suncor's own disclosed normalized FFFlow and capital requirements:
 
 - Sustaining capex ($5,856M) + dividends ($2,800M) = ~$8.7B minimum AFFO needed
 - Normalized FFFlow at US$75 WTI is $8,476M (after capex), implying AFFO at US$75 WTI is approximately $14,332M ($8,476M + $5,856M capex)
-- AFFO of $8.7B would require WTI well below US$75, implying a break-even for sustaining operations plus dividends at roughly $40 to $45 WTI
-- This is an approximation derived from Suncor's own numbers; the company does not disclose an explicit break-even price
+- AFFO of $8.7B would need WTI well below US$75, implying a break-even for sustaining operations plus dividends at roughly $40 to $45 WTI
+- This is an approximation derived from Suncor's own numbers; the company doesn't disclose an explicit break-even price
 
 [suncor-q4-2025-earnings.md, Full Year 2025]: "Normalized FFFlow (US$75 WTI) $8,476M", "Capital Expenditures $5,856M"
 
@@ -54,7 +54,7 @@ Based on Suncor's own disclosed normalized FFFlow and capital requirements:
 | Dividends ($M) | ~2,600 | ~2,800 | ~2,800 (est.) | 2,800 |
 | Quarterly dividend per share | $0.52 | $0.55 | $0.57 | $0.60 (from Q4) |
 
-**Share count trajectory:** Based on Suncor's Q4 2025 press release disclosing weighted average diluted shares of approximately 1,200M for Q4 2025 (vs approximately 1,258M for Q4 2024), the outstanding share count is declining at a pace consistent with ~$3B in annual buybacks. The 2026 guidance of $275M/month (~$3,300M annually) suggests continued acceleration.
+**Share count trajectory:** Based on Suncor's Q4 2025 press release disclosing weighted average diluted shares of approximately 1,200M for Q4 2025 (vs approximately 1,258M for Q4 2024), the outstanding share count is declining at a pace consistent with ~$3B in annual buybacks. The 2026 guidance of $275M/month (~$3,300M annually) points to continued acceleration.
 
 [suncor-historical.md, Capital Allocation]: "Total Shareholder Returns $7,700M" (2022), "$5,000M" (2023)
 [suncor-2024-annual.md, Capital Allocation]: "Total Shareholder Returns $5,700M"
@@ -62,7 +62,7 @@ Based on Suncor's own disclosed normalized FFFlow and capital requirements:
 
 ### Reference Share Price
 
-The TSX closing price for SU was $60.92 on December 31, 2025, as disclosed in Suncor's proxy circular. This is the most recent Suncor-sourced share price available.
+The TSX closing price for SU was $60.92 on December 31, 2025, as disclosed in Suncor's proxy circular. That's the most recent Suncor-sourced share price available.
 
 [suncor-proxy-circular]: TSX closing price $60.92 on December 31, 2025
 
@@ -79,15 +79,15 @@ Using only Suncor-disclosed data and the proxy circular reference price:
 | Dividend yield at $60.92 | $2.40 annualized ($0.60 x 4) / $60.92 | ~3.9% |
 | Total shareholder return yield | $5,800M / (~1,200M x $60.92) | ~7.9% |
 
-At the December 31, 2025 reference price, Suncor's normalized FFFlow yield of ~11.6% is notably high and suggests the market is pricing in meaningful commodity price risk (WTI declining below US$75) or structural concerns about long-duration oil sands assets.
+At the December 31, 2025 reference price, Suncor's normalized FFFlow yield of ~11.6% is strikingly high. It suggests the market is pricing in meaningful commodity price risk (WTI falling below US$75) or structural concerns about long-duration oil sands assets.
 
 ## Key Assumptions and Limitations
 
 ### What This Analysis Can Assess
 
-1. **Operational trajectory is positive.** Normalized FFFlow grew 15% YoY at constant commodity prices. Production hit records. Per-barrel costs declined. Utilization rates exceeded nameplate capacity. These are all Suncor-disclosed facts.
+1. **Operational trajectory is positive.** Normalized FFFlow grew 15% YoY at constant commodity prices. Production hit new highs. Per-barrel costs fell. Utilization rates exceeded nameplate capacity. These are all Suncor-disclosed facts.
 
-2. **Capital return program is well-covered.** At 2025 realized commodity prices, AFFO covered all capex, dividends, and buybacks with surplus. The implied break-even WTI of $40 to $45 provides substantial downside buffer for sustaining operations.
+2. **Capital return program is well-covered.** At 2025 realized commodity prices, AFFO covered all capex, dividends, and buybacks with surplus. The implied break-even WTI of $40 to $45 provides a large downside buffer for sustaining operations.
 
 3. **Balance sheet provides flexibility.** Net debt of $6,337M and Net Debt/AFFO of 0.50x give management room to maintain shareholder returns even in a downturn.
 
@@ -95,7 +95,7 @@ At the December 31, 2025 reference price, Suncor's normalized FFFlow yield of ~1
 
 ### What This Analysis Cannot Assess Without Third-Party Data
 
-The following would be required for a complete valuation and cannot be derived from Suncor's own filings alone:
+A complete valuation can't be derived from Suncor's own filings alone. The following would be needed:
 
 | Data Gap | What It Would Provide | Source Required |
 |----------|----------------------|-----------------|
@@ -109,4 +109,4 @@ The following would be required for a complete valuation and cannot be derived f
 
 ### Conclusion
 
-Based solely on Suncor-sourced data, the company's operational and financial fundamentals are strong and improving. Normalized cash flow generation is growing, the balance sheet is robust, and the capital return program is well-funded and accelerating. The December 31, 2025 proxy circular reference price of $60.92 implies a normalized FFFlow yield of ~11.6%, which appears attractive on an absolute basis but cannot be assessed on a relative basis without third-party market data. A complete valuation opinion would require the market data and peer comparisons listed in the data gaps table above.
+Based solely on Suncor-sourced data, the company's operational and financial fundamentals are strong and improving. Normalized cash flow generation is growing, the balance sheet is healthy, and the capital return program is well-funded and accelerating. The December 31, 2025 proxy circular reference price of $60.92 implies a normalized FFFlow yield of ~11.6%, which looks attractive on an absolute basis but can't be assessed on a relative basis without third-party market data. A complete valuation opinion would require the market data and peer comparisons listed in the data gaps table above.
